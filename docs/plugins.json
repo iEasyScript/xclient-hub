@@ -1,0 +1,3456 @@
+[
+    {
+        "internalName": "PitfallHunterPlugin",
+        "name": "Pitfall Hunter",
+        "description": "Local Sunlight Antelope pitfall loop. Lure closest NPC, then use closest pit.",
+        "tags": [
+            "hunter",
+            "pitfall",
+            "sunlight antelope",
+            "local",
+            "mvp"
+        ],
+        "version": "0.1.52",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "xclient-hub"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "2bbbb86b2d5bf17e2894c9581d4d580975a07c4af2b3c62735b08112b4818003",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/pitfallhunterplugin-0.1.52.jar"
+    },
+    {
+        "internalName": "GabulhasKarambwansPlugin",
+        "name": "Karambwan fisher",
+        "description": "",
+        "tags": [
+            "GabulhasKarambwans",
+            "Gabulhas"
+        ],
+        "version": "1.2.1",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "a29d5c2148e3e6f2778786836a9bcfa2cceb0ee356331fd768ef4bdcc5911160",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/gabulhaskarambwansplugin-1.2.1.jar"
+    },
+    {
+        "internalName": "GECookerPlugin",
+        "name": "GE Cooker",
+        "description": "Cooks items on fires found at the Grand Exchange.",
+        "tags": [
+            "cooking",
+            "grand",
+            "exchange",
+            "ge",
+            "fish",
+            "raw"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "1.9.6",
+        "authors": [
+            "StickToTheScript"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/GECookerPlugin/assets/cooking.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/GECookerPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "b426b942788becd309b78903da7476ae74a5237e12f331c20e00cabbfd54ab1c",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/gecookerplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "AttackRangesPlusPlugin",
+        "name": "<html>[<font color=#BB86FC>P</font>] ",
+        "description": "Draws your attack range (and optionally your target's), auto-detected from your weapon and clipped to line of sight.",
+        "tags": [
+            "range",
+            "pvp",
+            "combat",
+            "overlay"
+        ],
+        "version": "0.2.3",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "pjmarz"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AttackRangesPlusPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AttackRangesPlusPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "ee829b632427f7b33f453d10783c8b7b6032dea7bc100efc20a613a5d09e238d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/attackrangesplusplugin-0.2.3.jar"
+    },
+    {
+        "internalName": "PumperPlugin",
+        "name": "Pumper",
+        "description": "LiftedMango's Pumper",
+        "tags": [
+            "pure",
+            "strength",
+            "str",
+            "pump",
+            "blast furnace"
+        ],
+        "version": "1.0.7",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "f42c56ca9361d46ecd9d84d78fa2b82fc5018bc5e8713341180635be3c1220ef",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/pumperplugin-1.0.7.jar"
+    },
+    {
+        "internalName": "TutorialIslandPlugin",
+        "name": "Tutorial Island",
+        "description": "ProjectX Tutorial Island plugin",
+        "tags": [
+            "TutorialIsland",
+            "projectx"
+        ],
+        "version": "1.3.16",
+        "minClientVersion": "1.9.9.2",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/TutorialIslandPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/TutorialIslandPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "7571350d3b371595f2cfd86371158c0d85475c70ad5ee6bf316ed26be468b582",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/tutorialislandplugin-1.3.16.jar"
+    },
+    {
+        "internalName": "ColosseumPrayerPlugin",
+        "name": "Fortis Colosseum Prayer",
+        "description": "Prayer helper for Fortis Colosseum waves 1\u201311: manticore, javelin colossus, serpent shaman, jaguar warrior, shockwave colossus.",
+        "tags": [
+            "colosseum",
+            "fortis",
+            "prayer",
+            "projectx"
+        ],
+        "version": "1.0.3",
+        "minClientVersion": "1.9.8.8",
+        "authors": [
+            "ProjectX Hub"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/ColosseumPrayerPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/ColosseumPrayerPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "1c264799558cf87617bbcbd75529ab5b0af400dc4bee0c5f2376679dab63dd0e",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/colosseumprayerplugin-1.0.3.jar"
+    },
+    {
+        "internalName": "JadPlugin",
+        "name": "Jad Helper",
+        "description": "Auto prays jad attacks and attacks healers",
+        "tags": [
+            "jad",
+            "projectx"
+        ],
+        "version": "1.0.10",
+        "minClientVersion": "1.9.8.8",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/JadPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/JadPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "0ce8278aed5cd762c6c5668a1c8328e64bbd7c5e186cb2da4269ee365cdf034d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/jadplugin-1.0.10.jar"
+    },
+    {
+        "internalName": "AnonymousPlugin",
+        "name": "Anonymous Mode",
+        "description": "Hide your in-game identity.",
+        "tags": [
+            "chat",
+            "mask",
+            "hide",
+            "anonymous"
+        ],
+        "version": "1.0.3",
+        "minClientVersion": "1.9.6",
+        "authors": [
+            "Bolado"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AnonymousPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AnonymousPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "d5328888d46fb81ad1c22bf4603f4a3eea6e20709485c0ebd949562ac76974ba",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/anonymousplugin-1.0.3.jar"
+    },
+    {
+        "internalName": "npcTannerPlugin",
+        "name": "NPC Tanner",
+        "description": "Tans any hide in the bank at Al-Kharid",
+        "tags": [
+            "mm",
+            "tanning",
+            "npc tanner"
+        ],
+        "version": "2.0.2",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Gage"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/npcTannerPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/npcTannerPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "c861020b748fc7fc272a31f99ed1a8d970abb0311c871a0bc1c31c86a68d662d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/npctannerplugin-2.0.2.jar"
+    },
+    {
+        "internalName": "SummerGardenPlugin",
+        "name": "Summers Garden",
+        "description": " ProjectX Summers Garden (V2.1)",
+        "tags": [
+            "Summers Garden",
+            "minigame",
+            "thieving",
+            "projectx",
+            "skilling",
+            "summer",
+            "summers",
+            "garden",
+            "sq'irk",
+            "juice"
+        ],
+        "version": "1.0.3",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "05efebb50e13044bfc8f8a93556d68f82a0718eb1f86644e01e35829bc0e2622",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/summergardenplugin-1.0.3.jar"
+    },
+    {
+        "internalName": "AutoHunterPlugin",
+        "name": "AutoHunter",
+        "description": "ProjectX AutoHunter plugin",
+        "tags": [
+            "hunter",
+            "projectx"
+        ],
+        "version": "1.1.1",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "36b668a96e7eccf16f2e417463b711a8a520e3eb1a8bc1e7459cb5bcdfec1a86",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autohunterplugin-1.1.1.jar"
+    },
+    {
+        "internalName": "AIOMagicPlugin",
+        "name": "AIO Magic",
+        "description": "ProjectX Magic plugin",
+        "tags": [
+            "magic",
+            "projectx",
+            "skilling",
+            "training"
+        ],
+        "version": "1.2.8",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AIOMagicPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AIOMagicPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "6f3271dc0d8056185d12f1e850f042e01e664fffb67d35ce08ebec24b3572c0e",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/aiomagicplugin-1.2.8.jar"
+    },
+    {
+        "internalName": "GabulhasGoldRushPlugin",
+        "name": "Gold Rush",
+        "description": "",
+        "tags": [
+            "GabulhasGoldRush",
+            "Gabulhas"
+        ],
+        "version": "1.0.7",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "6f43f749d79e4243ecba0dc3463cab6e6d364a46c188bc87b0bb0a9e3930f2fa",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/gabulhasgoldrushplugin-1.0.7.jar"
+    },
+    {
+        "internalName": "AutoChompyKillerPlugin",
+        "name": "Chompy Killer",
+        "description": "Automated chompy bird hunting plugin...",
+        "tags": [
+            "chompy",
+            "combat"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Unknown"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AutoChompyKillerPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AutoChompyKillerPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "dd9064374f09d7978bad877b47c94b67aeab66684b41742f32eb42c23f807d3a",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autochompykillerplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "AerialFishingPlugin",
+        "name": " Aerial Fisher",
+        "description": "Aerial Fishing plugin",
+        "tags": [
+            "Fishing",
+            "projectx",
+            "Aerial",
+            "skilling"
+        ],
+        "version": "1.1.2",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "See1Duck"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AerialFishingPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AerialFishingPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "4d19055d3f9f118c7a43afd426e4b5f3d20588a5e9f916fb8e58dc5365ec822d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/aerialfishingplugin-1.1.2.jar"
+    },
+    {
+        "internalName": "TowerOfLifeCCPlugin",
+        "name": " Creature Creation",
+        "description": "Automates the creature creation process within the Tower of Life basement.",
+        "tags": [
+            "Tower of life",
+            "creature",
+            "creature creation",
+            "creation",
+            "tol",
+            "cc",
+            "cd",
+            "cardew"
+        ],
+        "version": "1.1.4",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Cardew"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/TowerOfLifeCCPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/TowerOfLifeCCPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "1c352a39c78fd5f59e159be2f689a193b1c6d2b10d8cc20a43c091907680e6d7",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/toweroflifeccplugin-1.1.4.jar"
+    },
+    {
+        "internalName": "AutoFishingPlugin",
+        "name": "Fishing",
+        "description": "Automated fishing plugin with banking support",
+        "tags": [
+            "fishing",
+            "skilling"
+        ],
+        "version": "1.0.9",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "AI Agent"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AutoFishingPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AutoFishingPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "cd0a7b40b725772337a3a3f510fee0e85b456c8e02b7c46eb004c184b45a6269",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autofishingplugin-1.0.9.jar"
+    },
+    {
+        "internalName": "KittenPlugin",
+        "name": " Kitten Tracker",
+        "description": "Automates the kitten growth process and provides notifications",
+        "tags": [
+            "cat",
+            "kitten",
+            "duck",
+            "s1d",
+            "see1duck",
+            "projectx"
+        ],
+        "version": "1.3.1",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "95a8d0e196bc19fc2e9fdf67ffc32513647e7cdeba603994689db9a25ea846cd",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/kittenplugin-1.3.1.jar"
+    },
+    {
+        "internalName": "VolcanicAshMinerPlugin",
+        "name": "Volcanic Ash Miner",
+        "description": "Start either at the ash mine on Fossil Island or with a digsite pendant in your inventory. Have a pickaxe in your inventory or equipped.",
+        "tags": [
+            "volcanic",
+            "ash",
+            "mining",
+            "ironman",
+            "taf",
+            "projectx"
+        ],
+        "version": "1.2.0",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "TaF"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/volcanicashminer/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/volcanicashminer/assets/card.png",
+        "disable": false,
+        "sha256": "b5b271942785a2ee3b80aaaae76598aa89681b9a4beae823784ccdb866018e83",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/volcanicashminerplugin-1.2.0.jar"
+    },
+    {
+        "internalName": "AutoLooterPlugin",
+        "name": "Auto Looter",
+        "description": "ProjectX looter plugin",
+        "tags": [
+            "looter",
+            "projectx"
+        ],
+        "version": "1.2.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "f13ec0905442a05478f5e7214401e7ea6145d33404ab89b17d31a47dc71fd2c8",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autolooterplugin-1.2.0.jar"
+    },
+    {
+        "internalName": "SandCrabPlugin",
+        "name": "SandCrabs",
+        "description": "Kills SandCrab & resets",
+        "tags": [
+            "Combat",
+            "projectx",
+            "sand",
+            "crab",
+            "sandcrab",
+            "attack",
+            "kill"
+        ],
+        "version": "1.5.4",
+        "minClientVersion": "2.1.32",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "c3d2b63cb6f059ae61f74091a1c93f31eb9cb69660c116ac186f4561060a7339",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/sandcrabplugin-1.5.4.jar"
+    },
+    {
+        "internalName": "MmCavesPlugin",
+        "name": "MM Caves",
+        "description": "Automates chinning or bursting in Monkey Madness II caves",
+        "tags": [
+            "mm",
+            "mm2",
+            "caves",
+            "chinning",
+            "bursting",
+            "ranged",
+            "magic"
+        ],
+        "version": "1.0.2",
+        "minClientVersion": "2.0.6",
+        "authors": [
+            "FreakJoost"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "2dd157f12cd135505e25e5e93ef01713e86fa949c7cf7f741d56106716c66391",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/mmcavesplugin-1.0.2.jar"
+    },
+    {
+        "internalName": "ZulrahPlugin",
+        "name": "Zulrah Overlay Helper",
+        "description": "Helps with various aspects during a fight with Zulrah",
+        "tags": [
+            "Zulrah",
+            "Helper",
+            "boss",
+            "bossing",
+            "snek",
+            "snake",
+            "tool"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "2.0.1",
+        "authors": [
+            "Syntax"
+        ],
+        "iconUrl": "https://i.imgur.com/syri2MC.png",
+        "cardUrl": "https://i.imgur.com/syri2MC.png",
+        "disable": false,
+        "sha256": "620f1c97d1323708ad7f8373f9b62bde4e1cb2f7310e75a9dd6e7fa9a1eb3f39",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/zulrahplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "TormentedDemonPlugin",
+        "name": "Tormented Demons",
+        "description": "Automates restocking, prayer flicking, and gear switching during Tormented Demon",
+        "tags": [
+            "tormented",
+            "flicker",
+            "weapon",
+            "switch",
+            "projectx"
+        ],
+        "version": "1.2.3",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "e504187c08fa9efd9576ba5624e300bf1b7305afaa07302b8f5aad61badb8094",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/tormenteddemonplugin-1.2.3.jar"
+    },
+    {
+        "internalName": "ThievingPlugin",
+        "name": "Thieving",
+        "description": "ProjectX thieving plugin",
+        "tags": [
+            "thieving",
+            "skilling"
+        ],
+        "version": "2.1.0",
+        "minClientVersion": "1.9.8.2",
+        "authors": [
+            "Mocrosoft",
+            "Kryox",
+            "Jesusfh"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/ThievingPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/ThievingPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "b749167155a2265b18906670833cb51d05f109972d224239a2a50067d5c50bb9",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/thievingplugin-2.1.0.jar"
+    },
+    {
+        "internalName": "LunarPlankMakePlugin",
+        "name": "Lunar Plank Make",
+        "description": "Geoff's lunar plank maker",
+        "tags": [
+            "magic",
+            "moneymaking"
+        ],
+        "version": "1.0.4",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "f2d92143d276f5f42acca881cb45d482f29396e4db84a35aa7a1347bc8390504",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/lunarplankmakeplugin-1.0.4.jar"
+    },
+    {
+        "internalName": "AutoSmeltingPlugin",
+        "name": "Auto Smelting",
+        "description": "Smelt ores/coal into bars",
+        "tags": [
+            "smithing",
+            "smelting",
+            "projectx",
+            "skilling"
+        ],
+        "version": "1.0.4",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "d8be06555df907728b35700c509aa92ab731817d5370517b7cb6507410ed464d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autosmeltingplugin-1.0.4.jar"
+    },
+    {
+        "internalName": "PVirewatchKillerPlugin",
+        "name": "Vyrewatch Killer",
+        "description": "Pumsters vyrewatch killer",
+        "tags": [
+            "pumster",
+            "projectx",
+            "Vyrewatch"
+        ],
+        "version": "1.0.3",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Pumsters"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/PVirewatchKillerPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/PVirewatchKillerPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "3d5d4f966e40ec7a5b02f9dd1d0f862150e7a2b45dc2a0bdd134356f226a0341",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/pvirewatchkillerplugin-1.0.3.jar"
+    },
+    {
+        "internalName": "AmethystMiningPlugin",
+        "name": " Amethyst Miner",
+        "description": "Automates mining amethyst in the mining guild",
+        "tags": [
+            "mining",
+            "amethyst",
+            "mining guild"
+        ],
+        "version": "1.2.4",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "1656f7b625eab9de2c850700130c5483aac43293986eef78b5af53817acb1905",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/amethystminingplugin-1.2.4.jar"
+    },
+    {
+        "internalName": "BlueDragonsPlugin",
+        "name": "Blue Dragons",
+        "description": "Blue dragon farmer for bones",
+        "tags": [
+            "blue",
+            "dragons",
+            "prayer"
+        ],
+        "version": "1.2.0",
+        "minClientVersion": "2.0.14",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "bded7857b417d82b3f713d922c43c4142fd7a78c4931a629ea373d7dbf5ad3bf",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/bluedragonsplugin-1.2.0.jar"
+    },
+    {
+        "internalName": "AIOCamdozPlugin",
+        "name": "AIO Camdozaal",
+        "description": "Cardews AIO Camdozaal plugin",
+        "tags": [
+            "aio",
+            "projectx",
+            "camdozaal",
+            "cd",
+            "cardew"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Cardews"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AIOCamdozPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AIOCamdozPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "5bff20e36003c2df390b20594955a066c9b2a38526ac7b03a7f4acc721887046",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/aiocamdozplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "RcPlugin",
+        "name": "Frosty Rc",
+        "description": "A plugin to automate Rune crafting",
+        "tags": [
+            "blood",
+            "rc",
+            "rune",
+            "frosty",
+            "wrath"
+        ],
+        "version": "1.1.4",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Frosty"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/RcPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/RcPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "5a2d23d6409cbf5aaf185fe92d11b719bbc4572691450608bdaa759da77e8a64",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/rcplugin-1.1.4.jar"
+    },
+    {
+        "internalName": "TitheFarmingPlugin",
+        "name": "Tithe Farm",
+        "description": "Plays the Tithe farm minigame for you!",
+        "tags": [
+            "tithe farming",
+            "projectx",
+            "skills",
+            "minigame"
+        ],
+        "version": "1.1.13",
+        "minClientVersion": "1.9.8.8",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/TitheFarmingPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/TitheFarmingPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "6631bff249838dc07e20204c6b08f6a9d1fb662ac7baae6d54fac676eb37cac6",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/tithefarmingplugin-1.1.13.jar"
+    },
+    {
+        "internalName": "EnsouledHeadSlayerPlugin",
+        "name": "Ensouled Heads",
+        "description": "EnsouledHeadSlayer",
+        "tags": [
+            "Ensould",
+            "head",
+            "slayer",
+            "prayer",
+            "taf",
+            "projectx"
+        ],
+        "version": "1.0.2",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "ee4999c498b52707823b8f0761d1b717ec2c9a8365e1ffcea93e8f0df3ec7074",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/ensouledheadslayerplugin-1.0.2.jar"
+    },
+    {
+        "internalName": "GotrPlugin",
+        "name": "GuardiansOfTheRift",
+        "description": "Guardians of the rift plugin",
+        "tags": [
+            "runecrafting",
+            "guardians of the rift",
+            "gotr",
+            "projectx"
+        ],
+        "version": "1.5.8",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "87eddca9b537fa5fddaa935f872d3cea37174fb3d02e2d5f69de1f215c01be16",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/gotrplugin-1.5.8.jar"
+    },
+    {
+        "internalName": "MinnowsPlugin",
+        "name": "Auto Minnows",
+        "description": "ProjectX minnows plugin",
+        "tags": [
+            "minnows",
+            "projectx"
+        ],
+        "version": "1.0.4",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "See1Duck"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/MinnowsPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/MinnowsPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "86ebcefbe1957410cd6eedc873fd6a303b83dc065f83c642458a6ce5a0d222d1",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/minnowsplugin-1.0.4.jar"
+    },
+    {
+        "internalName": "GiantMolePlugin",
+        "name": "Giant Mole",
+        "description": "Giant Mole plugin",
+        "tags": [
+            "Giant Mole",
+            "projectx"
+        ],
+        "version": "0.0.5",
+        "minClientVersion": "2.0.0",
+        "authors": [
+            "See1Duck"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/GiantMolePlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/GiantMolePlugin/assets/card.png",
+        "disable": false,
+        "sha256": "12017e0e89056d6bef6f8e3b4786005af390314cb9feebee1c788bd4565d5ee1",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/giantmoleplugin-0.0.5.jar"
+    },
+    {
+        "internalName": "FlipperPlugin",
+        "name": "Flipper",
+        "description": "Flipping copilot automation",
+        "tags": [
+            "flip",
+            "ge",
+            "grand",
+            "exchange",
+            "automation"
+        ],
+        "version": "1.2.4",
+        "minClientVersion": "2.1.32",
+        "authors": [
+            "Choken",
+            "afss0"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/FlipperPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/FlipperPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "2ef9641c020e7f79eee8be99c9c477cbfca81f50bfae62bcf50d664cfc79d2b2",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/flipperplugin-1.2.4.jar"
+    },
+    {
+        "internalName": "GabulhasGlassMakePlugin",
+        "name": "Glass Make",
+        "description": "",
+        "tags": [
+            "GabulhasGlassMake",
+            "Gabulhas"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "bec2d9d064723f8c975e7c6785d34273a8afa7d233a2fa6e46d4c66668ed1a84",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/gabulhasglassmakeplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "ArceuusLibraryPlugin",
+        "name": "Arceuus Library",
+        "description": "Runs the Arceuus Library book-fetch loop using the upstream Kourend Library solver",
+        "tags": [
+            "arceuus",
+            "library",
+            "kourend",
+            "magic",
+            "runecraft",
+            "minigame"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.1.34",
+        "authors": [
+            "runsonmypc"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/ArceuusLibraryPlugin/assets/card.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/ArceuusLibraryPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "f86d1b7d800de2159847316567eaec4f02c2fa9ee6f43dbbfa5f6ccf064f5712",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/arceuuslibraryplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "TzhaarVenatorBowPlugin",
+        "name": "Tzhaar Venator",
+        "description": "Automatically kills Tzhaars with the Venator Bow",
+        "tags": [
+            "Tzhaar",
+            "Venator",
+            "bow",
+            "range",
+            "xp",
+            "projectx"
+        ],
+        "version": "1.0.2",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "8e1819551ac7e17e7f6972d2927787f0daff5ac433a238a017273eee03207e43",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/tzhaarvenatorbowplugin-1.0.2.jar"
+    },
+    {
+        "internalName": "KrakenPlugin",
+        "name": "Kraken",
+        "description": "AFK Kraken boss: disturbs whirlpools, auto-fights, loots.",
+        "tags": [
+            "kraken",
+            "boss",
+            "slayer",
+            "afk"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Pert"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "93d89c9523325481f129e9b8c4350b2dda1144df5c6368aa15de2f502ceab0a8",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/krakenplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "ChatbotPlugin",
+        "name": "Chatbot",
+        "description": "AI-powered chatbot using OpenAI. Reads in-game chat and responds intelligently.",
+        "tags": [
+            "chatbot",
+            "openai",
+            "ai",
+            "chat",
+            "gpt"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Bender"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "88c93eb12bfc5c25ae257e71e08e4a4bf732c7741d51ebafdf29cfa6a1eb0ef1",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/chatbotplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "MoonsOfPerilPlugin",
+        "name": "Moons of Peril",
+        "description": "A plugin to farm the Moons of Peril",
+        "tags": [
+            "bossing",
+            "pvm",
+            "moneymaking",
+            "combat",
+            "projectx"
+        ],
+        "version": "1.0.4",
+        "minClientVersion": "2.0.14",
+        "authors": [
+            "The Funk"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/MoonsOfPerilPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/MoonsOfPerilPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "e25c09e71f719ad06d99300d36e02ba548aa9c3baef87e6d12c68cc12dfe55b4",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/moonsofperilplugin-1.0.4.jar"
+    },
+    {
+        "internalName": "StoneChestThieverPlugin",
+        "name": " Stone Chest Thiever",
+        "description": "A plugin to automate thieving from stone chests in the Lizardman Temple.",
+        "tags": [
+            "TaF",
+            "Thieving",
+            "Stone chests"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "4815ef07f5686146b245b8570369db2999b550f8e46fb54fe07b68a4d8ab3486",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/stonechestthieverplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "GemCrabKillerPlugin",
+        "name": "Gem Crab Killer",
+        "description": "Automatically kills the Gem Crab boss",
+        "tags": [
+            "TaF",
+            "crab",
+            "combat",
+            "training",
+            "gem"
+        ],
+        "version": "1.0.2",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "TaF"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/GemCrabKillerPlugin/assets/GemStoneCrab.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/GemCrabKillerPlugin/assets/GemStoneCrab.png",
+        "disable": false,
+        "sha256": "e2a9828cf20e5cd8fa323c3026221949bca9aeeb0a2997f6026cb674bfe27d31",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/gemcrabkillerplugin-1.0.2.jar"
+    },
+    {
+        "internalName": "MahoganyHomesPlugin",
+        "name": " Mahogany Homes",
+        "description": "Automates Mahogany Homes contracts",
+        "tags": [
+            "mahogany",
+            "homes",
+            "construction",
+            "contract",
+            "minigame",
+            "s1d",
+            "see1duck",
+            "projectx"
+        ],
+        "version": "0.0.11",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "See1Duck"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/MahoganyHomesPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/MahoganyHomesPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "cdd82742ffe1b46d4aff59256885fe2db1ec457d816563d58beda818cdb81ffd",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/mahoganyhomesplugin-0.0.11.jar"
+    },
+    {
+        "internalName": "SalamanderPlugin",
+        "name": "Salamanders",
+        "description": "Automates salamander hunting",
+        "tags": [
+            "hunter",
+            "salamanders",
+            "skilling"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "a7b015472b8be9c90e8a4a04ac4abc8923fa965defcad54114b396cbfb15e082",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/salamanderplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "PlankRunnerPlugin",
+        "name": "Plank Runner",
+        "description": "ProjectX plank runner plugin",
+        "tags": [
+            "money making",
+            "projectx"
+        ],
+        "version": "1.1.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "2b5b6724dbeef7e75b136d0a2c584c81f3b2e7daf83903a037d84a32b6959364",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/plankrunnerplugin-1.1.0.jar"
+    },
+    {
+        "internalName": "VarrockAnvilPlugin",
+        "name": "Varrock Anvil",
+        "description": "Smith items at the anvils in Varrock West.",
+        "tags": [
+            "smithing",
+            "varrock",
+            "anvil"
+        ],
+        "version": "1.0.3",
+        "minClientVersion": "1.9.6",
+        "authors": [
+            "StickToTheScript"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/VarrockAnvilPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/VarrockAnvilPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "9495ee4560373ff940fc8318124ee47c8810532419a213f36a9f20b69f5f77da",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/varrockanvilplugin-1.0.3.jar"
+    },
+    {
+        "internalName": "AutoMiningPlugin",
+        "name": "Auto Mining",
+        "description": "Mines and banks ores",
+        "tags": [
+            "mining",
+            "projectx",
+            "skilling"
+        ],
+        "version": "1.0.12",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "4032b3aea43c5799ed2da385aef50ba3b277851d4b1d25e4e2d4a76f0dab8983",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autominingplugin-1.0.12.jar"
+    },
+    {
+        "internalName": "BirdHunterPlugin",
+        "name": "Bird Hunter",
+        "description": "Hunts birds",
+        "tags": [
+            "hunting",
+            "00",
+            "bird",
+            "skilling"
+        ],
+        "version": "1.0.2",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "01befcec81bf06553e37b6e7191cbd02522b7ddab1466cf50346796907008c3b",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/birdhunterplugin-1.0.2.jar"
+    },
+    {
+        "internalName": "PestControlPlugin",
+        "name": "Pest Control",
+        "description": "Supports all boats, portals, and shields.",
+        "tags": [
+            "pest control",
+            "minigames"
+        ],
+        "version": "2.3.4",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/PestControlPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/PestControlPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "793298d9a30cdbfb85ad72aca88b10aff2d5dc0d63ff00a9e537a229a9f79dfd",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/pestcontrolplugin-2.3.4.jar"
+    },
+    {
+        "internalName": "MicroAgilityPlugin",
+        "name": "Agility",
+        "description": "ProjectX agility plugin",
+        "tags": [
+            "agility",
+            "projectx"
+        ],
+        "version": "1.3.1",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/MicroAgilityPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/MicroAgilityPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "36ff62a6a91ab2f85b789f5fbbafa0ba85f9223c485e42f348d49dbb7d403d80",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/microagilityplugin-1.3.1.jar"
+    },
+    {
+        "internalName": "MKE_WintertodtPlugin",
+        "name": " AI-Wintertodt",
+        "description": "Advanced Wintertodt bot with human-like behavior",
+        "tags": [
+            "Wintertodt",
+            "firemaking",
+            "minigame"
+        ],
+        "version": "2.2.1",
+        "minClientVersion": "1.9.7",
+        "authors": [
+            "Make"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/MKE_WintertodtPlugin/assets/card.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/MKE_WintertodtPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "dc5746eb1acb27e6d47b27c419da831c0def9c86c09305ac42607e1c2f0f1068",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/mke_wintertodtplugin-2.2.1.jar"
+    },
+    {
+        "internalName": "BlessedWinePlugin",
+        "name": "Blessed Wine",
+        "description": "Automating Prayer Training using blessed wines at Cam Torum",
+        "tags": [
+            "blessed",
+            "wine",
+            "ralos",
+            "prayer",
+            "libation"
+        ],
+        "version": "1.1.0",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Hal"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/BlessedWinePlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/BlessedWinePlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "e9e41d509d637c6a474c60aa5c18160d3ecead9ff7848a8d60133ead9082097d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/blessedwineplugin-1.1.0.jar"
+    },
+    {
+        "internalName": "CombatHotkeysPlugin",
+        "name": "Combat hotkeys",
+        "description": "A plugin to bind hotkeys to combat stuff",
+        "tags": [
+            "combat",
+            "hotkeys",
+            "projectx"
+        ],
+        "version": "1.1.2",
+        "minClientVersion": "2.0.8",
+        "authors": [
+            "Cicire"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/CombatHotkeysPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/CombatHotkeysPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "aa76c86ddcd1eabd2b5d64011234e7093b54af2fe8d2fa304ffb3cdd96c1f422",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/combathotkeysplugin-1.1.2.jar"
+    },
+    {
+        "internalName": "SlayerPlugin",
+        "name": "Slayer",
+        "description": "Automated slayer with banking and travel support",
+        "tags": [
+            "slayer",
+            "combat",
+            "task"
+        ],
+        "version": "1.1.0",
+        "minClientVersion": "2.1.11",
+        "authors": [
+            "Big L"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "577377422740a78c602878ddbbcb1c548a8b6796593022769b5adb6cb0484463",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/slayerplugin-1.1.0.jar"
+    },
+    {
+        "internalName": "MixologyPlugin",
+        "name": "Mixology",
+        "description": "Mixology plugin",
+        "tags": [
+            "herblore",
+            "projectx",
+            "mixology"
+        ],
+        "version": "1.0.4",
+        "minClientVersion": "1.9.9.1",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/MixologyPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/MixologyPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "ec3b2185f39debb50db3ad1096b741a891e0d8f01b84a5bb82f5af9d9f8a4485",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/mixologyplugin-1.0.4.jar"
+    },
+    {
+        "internalName": "HerbrunPlugin",
+        "name": "Herb runner",
+        "description": "Herb runner",
+        "tags": [
+            "herb",
+            "farming",
+            "money making",
+            "skilling"
+        ],
+        "version": "1.2.0",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/HerbrunPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/HerbrunPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "d1031b4ce63d4279dc50e9c9b03233663470a0f2f106f7a4817ac1af59ca82b8",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/herbrunplugin-1.2.0.jar"
+    },
+    {
+        "internalName": "QoLPlugin",
+        "name": "QoL",
+        "description": "Quality of Life Plugin",
+        "tags": [
+            "QoL",
+            "projectx"
+        ],
+        "version": "1.8.15",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "60382b1bcb2203d19f97588a694bd7bd739604975cd0aeb9273be04c2fc6634c",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/qolplugin-1.8.15.jar"
+    },
+    {
+        "internalName": "HerbiboarPlugin",
+        "name": "Herbiboar",
+        "description": "Automatically hunts herbiboars with trail tracking and banking support",
+        "tags": [
+            "skilling",
+            "hunter",
+            "herbiboar"
+        ],
+        "version": "1.2.6",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "AI Agent"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/HerbiboarPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/HerbiboarPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "9c83fb8692e9f2b5feb2d83d80a7e71d5180725dae4417736fe74ae4fce6197d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/herbiboarplugin-1.2.6.jar"
+    },
+    {
+        "internalName": "PlayerMonitorPlugin",
+        "name": "Player Monitor",
+        "description": "Monitors nearby players and executes emergency actions when detected.",
+        "tags": [
+            "wilderness",
+            "skilling",
+            "solo",
+            "pvp",
+            "Netoxic"
+        ],
+        "version": "1.0.4",
+        "minClientVersion": "2.0.0",
+        "authors": [
+            "eXioStorm",
+            "Netoxic"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/PlayerMonitorPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/PlayerMonitorPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "7b484ddea8bfadc09d6da343904bc7631b92ee24a613e8847d6225fe892c5223",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/playermonitorplugin-1.0.4.jar"
+    },
+    {
+        "internalName": "GauntletHelperPlugin",
+        "name": "Gauntlet Helper",
+        "description": "Gauntlet Helper",
+        "tags": [
+            "Jam",
+            "cg",
+            "Gauntlet",
+            "hunllef",
+            "pvm",
+            "prayer",
+            "money making",
+            "auto",
+            "boss"
+        ],
+        "version": "1.1",
+        "minClientVersion": "2.0.30",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "c069fe32e17f5132c4f3411cecc2bc7118f7e8b360313974b3e6e93fc75a12ae",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/gauntlethelperplugin-1.1.jar"
+    },
+    {
+        "internalName": "CharterCrafterPlugin",
+        "name": "Charter Crafter",
+        "description": "Charter crafting plugin (UIM-friendly)",
+        "tags": [
+            "charter",
+            "crafting"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "heapoverfl0w"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/CharterCrafterPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/CharterCrafterPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "52accf47f902f1060ff69b2fc61f7bf344c92ebbafe4d61dcca2139f86309ca4",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/chartercrafterplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "ActionReplayPlugin",
+        "name": "AIO AIO</html>",
+        "description": "Record and replay sequences of in-game actions. 80/20 automation for one-off tasks.",
+        "tags": [
+            "projectx",
+            "aio",
+            "record",
+            "replay",
+            "macro",
+            "automation"
+        ],
+        "version": "1.1.0",
+        "minClientVersion": "2.1.32",
+        "authors": [
+            "Red Bracket"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/ActionReplayPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/ActionReplayPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "392eb965d60e8ffa3bfc5c9e0559536fa28d38e5161d1f10bfa48ecfbb78c6eb",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/actionreplayplugin-1.1.0.jar"
+    },
+    {
+        "internalName": "StallThievingPlugin",
+        "name": "Stall Thieving",
+        "description": "Stall Thieving",
+        "tags": [
+            "thieving",
+            "projectx"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "09e8a420033e0f3ca727aa785373ce283b4d3a6d288dc5672f8c65dc4f0e7f95",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/stallthievingplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "OrbChargerPlugin",
+        "name": "Orb Charger",
+        "description": "ProjectX Orb Charger Plugin",
+        "tags": [
+            "magic",
+            "projectx",
+            "money",
+            "money making"
+        ],
+        "version": "1.1.1",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "b8207267af613a4c20ce7fc19d92b73ac27f99318e91eec4b3f5c2e35812b4e4",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/orbchargerplugin-1.1.1.jar"
+    },
+    {
+        "internalName": "AutoWoodcuttingPlugin",
+        "name": "Auto Woodcutting",
+        "description": "ProjectX woodcutting plugin",
+        "tags": [
+            "Woodcutting",
+            "projectx",
+            "skilling"
+        ],
+        "version": "1.8.5",
+        "minClientVersion": "2.1.32",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AutoWoodcuttingPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AutoWoodcuttingPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "2c13b2f7404b706014e046e147b45ced70acf8470aada5910a307141d1ddee33",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autowoodcuttingplugin-1.8.5.jar"
+    },
+    {
+        "internalName": "WildernessAgilityPlugin",
+        "name": "Wilderness Agility",
+        "description": "Automated wilderness agility training with banking and ticket collection",
+        "tags": [
+            "agility",
+            "skilling",
+            "solo",
+            "mass",
+            "MoneyMaking"
+        ],
+        "version": "1.6.0",
+        "minClientVersion": "2.0.21",
+        "authors": [
+            "Cranny"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/WildernessAgilityPlugin/assets/icon.png",
+        "cardUrl": "httpa://ieasyscript.github.io/xclient-hub/WildernessAgilityPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "9852b2ddbb44fe7abc772d1260f1610448f174a712c14e7e47c27ffeb19af71d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/wildernessagilityplugin-1.6.0.jar"
+    },
+    {
+        "internalName": "GildedAltarPlugin",
+        "name": "Gilded Altar",
+        "description": "Gilded Altar plugin",
+        "tags": [
+            "prayer",
+            "projectx"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "fdae68d1f8a5413b91e399dfcbd8736255e598cc2884218248806859eb384612",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/gildedaltarplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "FarmTreeRunPlugin",
+        "name": "Farm tree runner",
+        "description": "Acun's farm tree runner. Supports regular, fruit and hardwood trees",
+        "tags": [
+            "Farming",
+            "Tree run"
+        ],
+        "version": "1.2.1",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Acun"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/FarmTreeRunPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/FarmTreeRunPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "2ebc1d218837bf932679b98d3a814996e9285823f76139c05f1476038c0671fb",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/farmtreerunplugin-1.2.1.jar"
+    },
+    {
+        "internalName": "ConstructionPlugin",
+        "name": "Construction 2",
+        "description": "Geoff's ProjectX construction plugin with added new bits.",
+        "tags": [
+            "skilling",
+            "projectx",
+            "construction"
+        ],
+        "version": "1.3.2",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "39056a60eb2624b40dc2397944aaf8dd21a568f4a4db028213f2395dc553352d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/constructionplugin-1.3.2.jar"
+    },
+    {
+        "internalName": "WinePlugin",
+        "name": "Wine Maker",
+        "description": "Nate's Wine Maker",
+        "tags": [
+            "skilling",
+            "nate",
+            "wine",
+            "cooking"
+        ],
+        "version": "1.3.0",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Nate"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/WinePlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/WinePlugin/assets/card.png",
+        "disable": false,
+        "sha256": "ddd9f75aca72b413084ad826bc8279093935467358fa91de660f087559f60104",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/wineplugin-1.3.0.jar"
+    },
+    {
+        "internalName": "LunarTabletsPlugin",
+        "name": "Lunar Tablets",
+        "description": "Creates lunar tablets at the lunar lectern",
+        "tags": [
+            "mm",
+            "magic",
+            "lunar tablets"
+        ],
+        "version": "2.0.2",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Gage"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/LunarTabletsPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/LunarTabletsPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "235f398d426b4c4f217057011c31961af3cef6bbb636aa9fbb3235d78a18eab0",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/lunartabletsplugin-2.0.2.jar"
+    },
+    {
+        "internalName": "FletchingPlugin",
+        "name": "Fletcher",
+        "description": "ProjectX fletching plugin",
+        "tags": [
+            "fletching",
+            "projectx",
+            "skills"
+        ],
+        "version": "1.7.0",
+        "minClientVersion": "1.9.9.1",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/FletchingPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/FletchingPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "18c92d7b5358eabec2165f3212335a525c5369c42de9e4f985de16e661a3f486",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/fletchingplugin-1.7.0.jar"
+    },
+    {
+        "internalName": "BankOrganizerPlugin",
+        "name": "Bank Organizer",
+        "description": "Organizes real bank tabs from practical item categories.",
+        "tags": [
+            "bank",
+            "organizer",
+            "tabs",
+            "sort"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.61",
+        "authors": [
+            "bgatfa"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "9fa132698302d02ee3ebbf882dfee72f5117de8c3d5352e5a23593c11f62d8f1",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/bankorganizerplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "AutoBankStanderPlugin",
+        "name": "Bank Stander",
+        "description": "AIO bank standing plugin for various processing activities",
+        "tags": [
+            "magic",
+            "skilling",
+            "processing"
+        ],
+        "version": "1.0.3",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Unknown"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AutoBankStanderPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AutoBankStanderPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "435086567c9cd0efedd38f8b0f8178ac227098713f0448bd833dfb199f09a3da",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autobankstanderplugin-1.0.3.jar"
+    },
+    {
+        "internalName": "VarrockCleanerPlugin",
+        "name": "Museum Cleaner",
+        "description": "Varrock Museum Cleaner",
+        "tags": [
+            "varrock",
+            "museum",
+            "cleaner"
+        ],
+        "version": "1.0.6",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "46cf089fbe58186811ce0d6820d68211120ee0afb2dc0e2a1442d2cea52c84e6",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/varrockcleanerplugin-1.0.6.jar"
+    },
+    {
+        "internalName": "ChaosAltarPlugin",
+        "name": "Chaos Altar",
+        "description": "Automates bone offering at the Chaos Altar",
+        "tags": [
+            "prayer",
+            "bones",
+            "altar"
+        ],
+        "version": "1.1.1",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Bee"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/ChaosAltarPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/ChaosAltarPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "ebde756e5440fafe753a18cc7216c63c0cf71b28c9586de5e61c95c01a35b66a",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/chaosaltarplugin-1.1.1.jar"
+    },
+    {
+        "internalName": "ButterflyCatcherPlugin",
+        "name": "Butterfly Catcher",
+        "description": "Automates butterfly and moth catching for Hunter XP. Stand near a spawn, pick your species and mode, start the plugin.",
+        "tags": [
+            "hunter",
+            "butterfly",
+            "moth",
+            "sunlight",
+            "moonlight",
+            "net",
+            "projectx",
+            "stonkscode"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "2.0.8",
+        "authors": [
+            "StonksCode"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "36d1386de2bb9d36595093f86ec9c4c1e0464e79c18dafd76eaabab4b31b5497",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/butterflycatcherplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "BradleyCombatPlugin",
+        "name": "Bradley Combat",
+        "description": "A plugin for managing combat swaps, special attacks, prayer toggles, and food/potion actions via hotkeys.",
+        "tags": [
+            "combat",
+            "hotkeys",
+            "projectx"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Bradley"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/BradleyCombatPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/BradleyCombatPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "0d48eb436e199ef6e4a66ce02896d02842b9203f58fda453d6dd0129f3dcfa41",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/bradleycombatplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "EelFishingPlugin",
+        "name": " Eel Fishing",
+        "description": "Automates fishing for Infernal and Sacred eels",
+        "tags": [
+            "fishing",
+            "eel",
+            "projectx"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "See1Duck"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/EelFishingPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/EelFishingPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "8b69abdd51f90ae2b86e5b6d812f6684ff2500b0efe82310d69cf20b26980a05",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/eelfishingplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "GrapeFarmerPlugin",
+        "name": "Grape farmer",
+        "description": "Grape farmer",
+        "tags": [
+            "skilling",
+            "farming",
+            "money making"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "bd273bba0bae9e21c10d29393f37a74ec01af9e2eab217aa629f662d5582c769",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/grapefarmerplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "LeaguesFiremakingPlugin",
+        "name": "AI Firemaking",
+        "description": "Lights fires in lines anywhere \u2014 withdraws logs, scans for open tiles, adapts around obstacles",
+        "tags": [
+            "firemaking",
+            "leagues",
+            "projectx",
+            "skilling"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "14675e97bb35739240008be692f17fefa673d4ac885e78c836d6c20d52cd40b9",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/leaguesfiremakingplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "BaggedPlantsPlugin",
+        "name": "Bagged Plants",
+        "description": "Cranny's Bagged Plant Planter",
+        "tags": [
+            "skilling",
+            "construction",
+            "farming"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/BaggedPlantsPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/BaggedPlantsPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "78eea53c5643d7a991a4ffbf199939cb03fd0ca61ac29071ca8fccac92674439",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/baggedplantsplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "LeaguesToolkitPlugin",
+        "name": "Leagues Toolkit",
+        "description": "Quality-of-life utilities for Leagues (anti-AFK, and more to come)",
+        "tags": [
+            "leagues",
+            "projectx",
+            "utility",
+            "afk"
+        ],
+        "version": "1.3.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "3d1849b4d84ca39c162f538307624d9f79a93ed65170abc6de19a1511b75ea54",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/leaguestoolkitplugin-1.3.0.jar"
+    },
+    {
+        "internalName": "BankTabSorterPlugin",
+        "name": "Bank Tab Sorter",
+        "description": "Sorts the current bank tab  using an advanced heuristic algorithm",
+        "tags": [
+            "bank",
+            "sort",
+            "projectx",
+            "tab"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "unknown"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/BanksShopperPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/BanksShopperPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "de914a77ccee011d3df2310b25f0771b4e327798f0d00c971fe40d908cf7ae47",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/banktabsorterplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "FornBirdhouseRunsPlugin",
+        "name": "Birdhouse Runner",
+        "description": "Does a birdhouse run",
+        "tags": [
+            "FornBirdhouseRuns",
+            "forn"
+        ],
+        "version": "1.1.4",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Forn"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/FornBirdhouseRunsPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/FornBirdhouseRunsPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "9202ec20a32849a744fd359b4975c64b9974a570237c8711a41b26654b000f12",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/fornbirdhouserunsplugin-1.1.4.jar"
+    },
+    {
+        "internalName": "JewelleryEnchantPlugin",
+        "name": "Jewellery Enchant",
+        "description": "Enchants all types of jewellery, with smart staff & rune handling.",
+        "tags": [
+            "magic",
+            "enchant",
+            "jewellery",
+            "skilling",
+            "projectx"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Lumusi"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/JewelleryEnchantPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/JewelleryEnchantPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "36c69920845413461ffa23288de8e2b817d04e5a16debc8628cacf3868b6eadf",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/jewelleryenchantplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "RecruiterPlugin",
+        "name": "Clan Recruiter",
+        "description": "Recruits people at GE to your clan",
+        "tags": [
+            "recruit",
+            "clan",
+            "type",
+            "keyboard",
+            "typer",
+            "Auto-typer",
+            "projectx"
+        ],
+        "version": "1.0.3",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Bee"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/RecruiterPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/RecruiterPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "b335fade66c7b212c999c2a5c26b4b52bbdf751fb32afdece0e7a19c7e61abea",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/recruiterplugin-1.0.3.jar"
+    },
+    {
+        "internalName": "DriftNetPlugin",
+        "name": "Drifnet",
+        "description": "ProjectX drifnet plugin",
+        "tags": [
+            "fishing",
+            "projectx",
+            "hunter",
+            "drift",
+            "net"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/DriftNetPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/DriftNetPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "3bdcf6c38bc6cd5a40faf5ab162e3ba12dc476d0fb941a611abda7d3510bfcb6",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/driftnetplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "ShootingStarPlugin",
+        "name": "ShootingStar",
+        "description": "Finds & Travels to shooting stars",
+        "tags": [
+            "mining",
+            "skilling",
+            "star",
+            "shooting"
+        ],
+        "version": "1.4.7",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "g-mason0"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/ShootingStarPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/ShootingStarPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "e995920d2263e3011b7b367784910e87a44cb24cd68248953ffb9e7554bf1bbc",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/shootingstarplugin-1.4.7.jar"
+    },
+    {
+        "internalName": "FarmingContractPlugin",
+        "name": "Farming Contracts",
+        "description": "Automates Farming Guild contracts. Start the plugin while inside the Farming Guild.",
+        "tags": [
+            "farming",
+            "contract",
+            "guild",
+            "jane"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.6.0",
+        "authors": [
+            "Pert"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/FarmingContractPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/FarmingContractPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "9a12a8e0b07e73391b72fe14927816877f3967b26d3d068c464795ac431fee51",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/farmingcontractplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "BlastoiseFurnacePlugin",
+        "name": "BlastoiseFurnace",
+        "description": "Storm's BlastoiseFurnace plugin",
+        "tags": [
+            "projectx",
+            "smithing",
+            "bar",
+            "ore",
+            "blast",
+            "furnace"
+        ],
+        "version": "1.2.2",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Storm"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/BlastoiseFurnacePlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/BlastoiseFurnacePlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "1298ed6bfe1dfda6ab0119ea8d81f12f085d6fb978d4f1e29dae2b8853c66953",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/blastoisefurnaceplugin-1.2.2.jar"
+    },
+    {
+        "internalName": "MoonlightMothPlugin",
+        "name": "MoonlightMoth",
+        "description": "Moonlight moth catcher",
+        "tags": [
+            "moonlight",
+            "moth",
+            "catcher",
+            "projectx",
+            "prayer"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "6b037b5574fcca4088a6d34e27cd029f95eb0017d718dfb30631cfffc798b984",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/moonlightmothplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "BarbarianFishingPlugin",
+        "name": " Barbarian Fisher",
+        "description": "Barbarian Fishing plugin",
+        "tags": [
+            "Fishing",
+            "barbarian",
+            "skilling"
+        ],
+        "version": "1.1.0",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "See1Duck"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/BarbarianFishingPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/BarbarianFishingPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "cc32fccc0eb479f78d764395c6ef353f35b7c1c7bdc897022d1c2afb0a6486cc",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/barbarianfishingplugin-1.1.0.jar"
+    },
+    {
+        "internalName": "LeftClickCastPlugin",
+        "name": "Left-Click Cast",
+        "description": "Replaces left-click Attack on NPCs with a preconfigured Cast Spell action.",
+        "tags": [
+            "magic",
+            "combat",
+            "spell",
+            "left-click",
+            "cast",
+            "pvm",
+            "pvp"
+        ],
+        "version": "1.3.2",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Pert"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "3c267d318823ec33bbbcdb06d47d095c394c405a71d15fdba8e911cbcfbd98c7",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/leftclickcastplugin-1.3.2.jar"
+    },
+    {
+        "internalName": "AutoRunecraftPlugin",
+        "name": "Auto Runecrafter",
+        "description": "F2P Auto Runecraft Plugin",
+        "tags": [
+            "Chill",
+            "Runecraft",
+            "rc",
+            "f2p"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "1b6f20be2831dfe6e401c5c0907ab5cf6225ae30bb2f6efa11b846c18c421023",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autorunecraftplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "AstralRunesPlugin",
+        "name": "Astral Runes",
+        "description": "Astral Runes",
+        "tags": [
+            "astral",
+            "rune",
+            "projectx"
+        ],
+        "version": "1.0.3",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Maxxin"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AstralRunesPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AstralRunesPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "31451e6b4ed3a0ee2831850547e2e961df1b6f2ebf045263fdd45e2f1796b35e",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/astralrunesplugin-1.0.3.jar"
+    },
+    {
+        "internalName": "MSailingPlugin",
+        "name": "Sailing",
+        "description": "ProjectX Sailing Plugin",
+        "tags": [
+            "sailing"
+        ],
+        "version": "2.2.56",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/MSailingPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/MSailingPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "ad439d1889ae845b2c2da77bb699d0bd6f1d2ff609049118eaadda225e7ca5f1",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/msailingplugin-2.2.56.jar"
+    },
+    {
+        "internalName": "AutoFiremakingPlusPlugin",
+        "name": "<html>[<font color=#BB86FC>P</font>] ",
+        "description": "Firemaking trainer: add logs to a Forester's Campfire or light a line of fires, with stop conditions, target level, and overlay/pause.",
+        "tags": [
+            "firemaking",
+            "campfire",
+            "skilling",
+            "projectx",
+            "plus"
+        ],
+        "version": "0.2.2",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "pjmarz"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AutoFiremakingPlusPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AutoFiremakingPlusPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "45c5be5be4a156cc2565953b67725f84bbc6bdec11e91ed12bd7a5915e36d6b5",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autofiremakingplusplugin-0.2.2.jar"
+    },
+    {
+        "internalName": "HouseThievingPlugin",
+        "name": "House Thieving",
+        "description": "House Thieving",
+        "tags": [
+            "thieving",
+            "house thieving"
+        ],
+        "version": "1.1.0",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Maxxin"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/HouseThievingPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/HouseThievingPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "4e92dc9c0c9906b75db9aad94b63949a500984a09eb206d6801a4f2d6c9db58e",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/housethievingplugin-1.1.0.jar"
+    },
+    {
+        "internalName": "CraftingPlugin",
+        "name": "Crafting",
+        "description": "ProjectX crafting plugin",
+        "tags": [
+            "skilling",
+            "projectx",
+            "crafting"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/CraftingPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/CraftingPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "5b289c9bc09ac3753e41f04da04bdf31da837fe4af65bdd6ad468d396430cf0d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/craftingplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "HueyPrayerPlugin",
+        "name": "Huey Prayer",
+        "description": "Auto prayer vs Hueycoatl (3-style projectile)",
+        "tags": [
+            "projectx",
+            "huey",
+            "prayer"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.1.34",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "eca24adb5fcd0d0c52d958207a27280ccc940ca7c7e4b84a8b25c101beb29779",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/hueyprayerplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "DelvePrayerHelperPlugin",
+        "name": "Delve Prayer Helper",
+        "description": "Automatically prays against the Delve boss attacks",
+        "tags": [
+            "delve",
+            "doom of mokhaiotl",
+            "mokha",
+            "pvm",
+            "boss"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.0",
+        "authors": [
+            "Engin"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/DelvePrayerHelperPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/DelvePrayerHelperPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "de7dd44fcbaf7eca0161282e0a3b0032f9aafacfa3e7bf4d2501e707a8d082b0",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/delveprayerhelperplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "revKillerPlugin",
+        "name": "Revenant Killer",
+        "description": "Kills revenants in the wilderness.",
+        "tags": [
+            "mm",
+            "ranging",
+            "revenant killer"
+        ],
+        "version": "2.0.9",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Gage"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/revKillerPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/revKillerPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "1bcabaef2fbee86a98cf0271d4c33b839e369bdaa87b603de9c4091f89b253e8",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/revkillerplugin-2.0.9.jar"
+    },
+    {
+        "internalName": "ClueSolverPlugin",
+        "name": "Clue Solver",
+        "description": "Automates solving clue scrolls by managing interactions",
+        "tags": [
+            "clue",
+            "solver",
+            "automation"
+        ],
+        "version": "1.0.5",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "unknown"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/ClueSolverPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/ClueSolverPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "46e7310e4b3886d641edbc1b9e9016c4719be22c0e45b233d05d17291ad0cf6d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/cluesolverplugin-1.0.5.jar"
+    },
+    {
+        "internalName": "OuraniaPlugin",
+        "name": "Ourania Altar",
+        "description": "Craft runes at the Ourania Altar",
+        "tags": [
+            "runecrafting",
+            "skilling",
+            "ourania",
+            "zmi"
+        ],
+        "version": "1.4.4",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "g-mason0"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/OuraniaPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/OuraniaPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "5def1c695efcad96d62056c66e96529c013a440f14e8037be993e6fa345231ff",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/ouraniaplugin-1.4.4.jar"
+    },
+    {
+        "internalName": "AmmoniteCrabPlugin",
+        "name": "AmmoniteCrabs",
+        "description": "Kills AmmoniteCrabs & resets",
+        "tags": [
+            "Combat",
+            "TaF",
+            "crabs",
+            "AmmoniteCrabs"
+        ],
+        "version": "1.1.3",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "1b229a9ff5617d504147df639760169f5a9b288d3a736a730b0aa4516b581813",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/ammonitecrabplugin-1.1.3.jar"
+    },
+    {
+        "internalName": "TheMessPlugin",
+        "name": "The Mess",
+        "description": "A plugin to automate cooking in The Mess hall.",
+        "tags": [
+            "cooking",
+            "skilling",
+            "projectx"
+        ],
+        "version": "1.1.0",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Bolado"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/TheMessPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/TheMessPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "7d6ac14601db01c60da8e6e0e069f4ea1b1f5710e91cabcfe2430501eedf2b52",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/themessplugin-1.1.0.jar"
+    },
+    {
+        "internalName": "SulphurNaguaPlugin",
+        "name": "Sulphur Nagua Fighter",
+        "description": "Automatically fights Sulphur Naguas in Varlamore, handling potions and combat.",
+        "tags": [
+            "combat",
+            "pvm",
+            "nagua",
+            "varlamore",
+            "projectx"
+        ],
+        "version": "2.0.2",
+        "minClientVersion": "2.6.12",
+        "authors": [
+            "VIP"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/SulphurNaguaPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/SulphurNaguaPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "41f4462e7cd91e607bb290f8e1aff75e45562683b983b1983855612a9f7184ff",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/sulphurnaguaplugin-2.0.2.jar"
+    },
+    {
+        "internalName": "PyreFoxPlugin",
+        "name": "<html>[<font color=orange>KaaS</font>]",
+        "description": "Hunts pyre foxes for you!",
+        "tags": [
+            "kaas",
+            "hunter",
+            "pyre",
+            "fox"
+        ],
+        "version": "1.0.9",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "c7dba2d1e6ed28359df583c73bfff10508f02e235210c15c064195d28acc5e68",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/pyrefoxplugin-1.0.9.jar"
+    },
+    {
+        "internalName": "ExamplePlugin",
+        "name": "Example",
+        "description": "ProjectX Example Plugin",
+        "tags": [
+            "example"
+        ],
+        "version": "1.1.1",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": true,
+        "sha256": "e9b0d21e64205325b9ffaae2774bfce96f5c0fe6c02a7efdae7fcf678401f4d5",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/exampleplugin-1.1.1.jar"
+    },
+    {
+        "internalName": "VorkathPlugin",
+        "name": "Vorkath",
+        "description": "ProjectX Vorkath plugin",
+        "tags": [
+            "vorkath",
+            "projectx"
+        ],
+        "version": "1.3.14",
+        "minClientVersion": "1.9.9.1",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/VorkathPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/VorkathPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "d26fb4ff6c9eef9d2d8f599df765f67254083e76350c8442a5cd1657f7ef34e2",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/vorkathplugin-1.3.14.jar"
+    },
+    {
+        "internalName": "DiscordPlugin",
+        "name": "Discord Notifier",
+        "description": "Sends notifications to Discord",
+        "tags": [
+            "discord",
+            "notification",
+            "messages"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Unknown"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/DiscordPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/DiscordPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "0d0c9f59739910bb52e613ba504d56c34fa08211fb6d8748e6849dc1e0628f4d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/discordplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "DemonicGorillaPlugin",
+        "name": "Demonic Gorillas",
+        "description": "Automates restocking, prayer flicking, and gear switching during Demonic Gorillas",
+        "tags": [
+            "demonic",
+            "Gorilla",
+            "flicker",
+            "weapon",
+            "switch",
+            "projectx"
+        ],
+        "version": "1.2.5",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "7624e7f24068c6574884bc91d960e5657e34678ac95727b4ffd696df676715eb",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/demonicgorillaplugin-1.2.5.jar"
+    },
+    {
+        "internalName": "DeadFallTrapHunterPlugin",
+        "name": "Deadfall Trap Hunter",
+        "description": "Automates hunting all creatures with Deadfall traps",
+        "tags": [
+            "hunter",
+            "deadfall",
+            "skilling",
+            "xp",
+            "loot",
+            "TaF"
+        ],
+        "version": "1.1.0",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "414b9c69295466d5a441f7fb8e6a7a652e4574c7260d7ece1c1915e328a62e95",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/deadfalltraphunterplugin-1.1.0.jar"
+    },
+    {
+        "internalName": "ValeTotemPlugin",
+        "name": "Vale Totems",
+        "description": "Automated Vale Totems minigame bot with advanced optimizations",
+        "tags": [
+            "valetotems",
+            "fletching",
+            "minigame"
+        ],
+        "version": "1.0.10",
+        "minClientVersion": "1.9.7",
+        "authors": [
+            "Make"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/ValeTotemPlugin/assets/card.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/ValeTotemPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "32625eedc2668e1eede103d762b26afab04c4d63c1a040af855162a7e663725e",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/valetotemplugin-1.0.10.jar"
+    },
+    {
+        "internalName": "RoyalTitansPlugin",
+        "name": "Royal Titans",
+        "description": "Kills the Royal Titans boss with another bot",
+        "tags": [
+            "Combat",
+            "bossing",
+            "TaF",
+            "Royal Titans",
+            "Ice giant",
+            "Fire giant",
+            "Duo"
+        ],
+        "version": "1.1.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "87b9cae037f17ae95cd2cd904e0601812011840bbebf29ca77207d422edf4ae6",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/royaltitansplugin-1.1.0.jar"
+    },
+    {
+        "internalName": "HunterKebbitsPlugin",
+        "name": "Kebbits",
+        "description": "Automates Kebbits hunting",
+        "tags": [
+            "hunter",
+            "kebbits",
+            "skilling"
+        ],
+        "version": "1.1.1",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "063cf9180ae58ea0c99a2075b630a813d1460c7b5be54422d66fba35fff5c2bd",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/hunterkebbitsplugin-1.1.1.jar"
+    },
+    {
+        "internalName": "AutoGauntletPrayerPlugin",
+        "name": "Auto Gauntlet Prayer",
+        "description": "Auto Gauntlet Prayer plugin",
+        "tags": [
+            "liftedmango",
+            "Gauntlet",
+            "pvm",
+            "prayer",
+            "money making",
+            "auto",
+            "boss"
+        ],
+        "version": "1.0.8",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "ad780807e4e60164e394ea3925d97d2a4cdf35a1e70b9bac7f640d3fb010b327",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autogauntletprayerplugin-1.0.8.jar"
+    },
+    {
+        "internalName": "CannonballSmelterPlugin",
+        "name": "Cannonball Smelter",
+        "description": "Makes cannonballs",
+        "tags": [
+            "smithing",
+            "girdy",
+            "skilling"
+        ],
+        "version": "1.1.1",
+        "minClientVersion": "1.9.9.1",
+        "authors": [
+            "Girdy",
+            "Engin"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/CannonballSmelterPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/CannonballSmelterPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "fa48e81fb4f94bb0d02ed84eaabca5cf1df977d5ae77132e9d0a6626cdd949dd",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/cannonballsmelterplugin-1.1.1.jar"
+    },
+    {
+        "internalName": "BanksShopperPlugin",
+        "name": "Bank's Shopper",
+        "description": "Bank's Auto Shopper",
+        "tags": [
+            "shopper",
+            "bank.js"
+        ],
+        "version": "1.4.2",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Bankjs"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/BanksShopperPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/BanksShopperPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "378adc67e1e5c1945245be9e788ae8dffdb61f73fa73cd4458262384def07bf1",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/banksshopperplugin-1.4.2.jar"
+    },
+    {
+        "internalName": "BanksBankStanderPlugin",
+        "name": "Bank's BankStander",
+        "description": "For Skilling at the Bank",
+        "tags": [
+            "bankstander",
+            "bank.js",
+            "bank",
+            "eXioStorm",
+            "storm"
+        ],
+        "version": "2.1.1",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Bankjs"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/BanksBankStanderPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/BanksBankStanderPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "9b56127e3dba5932c77ad364c8398090f119bb12fea58d65b1a0e305c55e7b36",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/banksbankstanderplugin-2.1.1.jar"
+    },
+    {
+        "internalName": "GEFiremakerPlugin",
+        "name": "GE Firemaker",
+        "description": "Uses logs on campfires around the Grand Exchange.",
+        "tags": [
+            "firemaking",
+            "campfire",
+            "grand",
+            "exchange",
+            "ge"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "1.9.6",
+        "authors": [
+            "StickToTheScript"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/GEFiremakerPlugin/assets/firemaking.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/GEFiremakerPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "4f99bb9262f8bf2ddddb0fed42cc02b76ded87b841e08185f3661fac15a12229",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/gefiremakerplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "AutoEssenceMiningPlugin",
+        "name": "Essence Mining",
+        "description": "Mines Rune/Pure Essence...",
+        "tags": [
+            "mining",
+            "essence",
+            "skilling"
+        ],
+        "version": "1.0.3",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Unknown"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AutoEssenceMiningPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AutoEssenceMiningPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "d9ca471483785e4755227b127539771f968d2d1da794d0bdcc182591235e3e2a",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autoessenceminingplugin-1.0.3.jar"
+    },
+    {
+        "internalName": "BarbarianVillageFisherPlugin",
+        "name": "Barb Village Fisher",
+        "description": "Fly and bait fish in Barbarian Village.",
+        "tags": [
+            "fish",
+            "fishing",
+            "fly",
+            "bait",
+            "barb",
+            "barbarian",
+            "village"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "1.9.6",
+        "authors": [
+            "StickToTheScript"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/BarbarianVillageFisherPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/BarbarianVillageFisherPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "61586fcef057d354d6aa7bace8270787e28c9d9dccbc568ed54d5a1859df4268",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/barbarianvillagefisherplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "EventDismissPlugin",
+        "name": "Random Event Handler",
+        "description": "Dismisses random events and optionally accepts lamps from Genie/Count Check",
+        "tags": [
+            "random",
+            "events",
+            "projectx",
+            "lamp",
+            "genie"
+        ],
+        "version": "2.1.1",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Unknown"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/EventDismissPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/EventDismissPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "3b7091d68437ef68700abb7c375343a67f0bc59a291d60d46fe0ea8cc45920d3",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/eventdismissplugin-2.1.1.jar"
+    },
+    {
+        "internalName": "PieBakerPlugin",
+        "name": "Pie Baker",
+        "description": "Automatically bakes pies using the Lunar spellbook",
+        "tags": [
+            "pie",
+            "baking",
+            "cooking",
+            "magic"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "719a9d11f04e48f5a130483368a10c6ab51ca0d9597cce501e6945a5cd5d2ec4",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/piebakerplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "BarrowsPlugin",
+        "name": "Barrows",
+        "description": "Completes the Barrows Brothers mini-game",
+        "tags": [
+            "combat",
+            "mm",
+            "barrows"
+        ],
+        "version": "2.0.9",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Gage"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/BarrowsPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/BarrowsPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "ddf3258547feb2645157e62ab61c8f98b1fd75cb8515da05af3e7b1f93b861b0",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/barrowsplugin-2.0.9.jar"
+    },
+    {
+        "internalName": "AttackTimerMetronomePlugin",
+        "name": "Prayer Helper",
+        "description": "Prayer helper",
+        "tags": [
+            "timers",
+            "overlays",
+            "tick",
+            "Lazy Flicking",
+            "Prayer"
+        ],
+        "version": "1.5.0",
+        "minClientVersion": "2.0.14",
+        "authors": [
+            "ZeroZero"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "959139f4feabbaff7846fb49628b574c830e92f8df9a16c1b310d1f6a02b0ec7",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/attacktimermetronomeplugin-1.5.0.jar"
+    },
+    {
+        "internalName": "CalcifiedRockMinerPlugin",
+        "name": "Calcified Rock Miner",
+        "description": "Calcified Rock Miner",
+        "tags": [
+            "prayer",
+            "rock",
+            "calcified",
+            "taf",
+            "projectx"
+        ],
+        "version": "1.1.4",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "c4bed6a7453cd69706943ae039eff22c8afa4dceeff2598beb518d1a850bc967",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/calcifiedrockminerplugin-1.1.4.jar"
+    },
+    {
+        "internalName": "TheatrePlugin",
+        "name": "Theatre of Blood Overlay",
+        "description": "All-in-one plugin providing overlays and helpers for every Theatre of Blood room.",
+        "tags": [
+            "ToB",
+            "Theatre",
+            "raids",
+            "bloat",
+            "verzik",
+            "nylo",
+            "xarpus",
+            "sotetseg",
+            "maiden",
+            "projectx"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Syntax"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "99e607c0f65d36f57ec38e5ada5fd1d5cf71ae9d8e74a2c62ad84cabf22370f3",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/theatreplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "SisyphusInfernalPactPlugin",
+        "name": "<html>[<font color=#ff4c4c>SIS</font>] ",
+        "description": "Automates Yama's stepping-stone circuit \u2014 avoids fire, loops the route, spam-clicks safe stones.",
+        "tags": [
+            "leagues",
+            "sisyphus",
+            "yama",
+            "demonic",
+            "pacts",
+            "infernal",
+            "stepping stones"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Sisyphus"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "72893db46479b50eb31c7b1bc1f5cc8ac259eeac7a6c261a31f9c1d4af0ffa88",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/sisyphusinfernalpactplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "HouseTabPlugin",
+        "name": "HouseTab",
+        "description": "ProjectX HouseTab plugin",
+        "tags": [
+            "projectx",
+            "magic",
+            "moneymaking"
+        ],
+        "version": "1.0.9",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "2389cd757923c9bbee20615d61d0c3c91727a3a751201405d339ebee54712def",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/housetabplugin-1.0.9.jar"
+    },
+    {
+        "internalName": "FishingTrawlerPlugin",
+        "name": "Fishing Trawler",
+        "description": "Chops Tentacles in fishing trawler minigame. start the script either on the dock outside the minigame or on the upstairs ship level where the tentacles spawn. make sure you have an axe on you",
+        "tags": [
+            "fishing",
+            "fishing trawler",
+            "projectx"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Unknown"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/FishingTrawlerPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/FishingTrawlerPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "e2b0b2c0a9e07a5018d047c2c0c1ce9847360dea35975b87f596bc27a542a0cb",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/fishingtrawlerplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "NmzPlugin",
+        "name": "Nmz",
+        "description": "Plays the nightmare zone minigame",
+        "tags": [
+            "nmz",
+            "projectx"
+        ],
+        "version": "2.4.1",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/NmzPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/NmzPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "877acdd291cd8bde7bf7838ca1c6244c4306f12ce32213b03f7b12bbaea91790",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/nmzplugin-2.4.1.jar"
+    },
+    {
+        "internalName": "AutoBuyerPlugin",
+        "name": "GE Buyer",
+        "description": "Acun's GE buyer. Give a list of items to buy",
+        "tags": [
+            "buy",
+            "buyer",
+            "grand exchange",
+            "ge"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Acun"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AutoBuyerPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AutoBuyerPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "e1f3d5261162a42f2e897ebdc1d289f473c1f15eb2bf6f4974f027d23eb878cc",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autobuyerplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "GiantSeaweedFarmerPlugin",
+        "name": "Giant Seaweed",
+        "description": "Farms giant seaweed.",
+        "tags": [
+            "GiantSeaweedFarmer",
+            "seaweed",
+            "farming",
+            "ironman",
+            "taf",
+            "projectx"
+        ],
+        "version": "1.2.1",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "d48c6f1d4029c7bafe1ea97e5004123f6200bd42057d8625bab88682b2af9e13",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/giantseaweedfarmerplugin-1.2.1.jar"
+    },
+    {
+        "internalName": "ProjectXDashboardPlusPlugin",
+        "name": "<html>[<font color=#BB86FC>P</font>] ",
+        "description": "Native Swing monitoring dashboard for your ProjectX session. Floating window plus a compact sidebar panel. No HTTP, no Agent Server dependency.",
+        "tags": [
+            "dashboard",
+            "monitoring",
+            "projectx",
+            "plus"
+        ],
+        "version": "1.2.1",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "pjmarz"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/ProjectXDashboardPlusPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/ProjectXDashboardPlusPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "65ef4390e693aa508e39f1f04eb60faa18b61ce93fc49451ea5abea4f0e0f2ba",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/projectxdashboardplusplugin-1.2.1.jar"
+    },
+    {
+        "internalName": "ArrowPlugin",
+        "name": "Arrow Maker",
+        "description": "Nate's Arrow Maker",
+        "tags": [
+            "MoneyMaking",
+            "nate",
+            "Arrow"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Nate"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/ArrowPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/ArrowPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "9fd262c9f6e878f066dac94d8dd9212ee18656c7e9a7f4eee65a66619f74b4d0",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/arrowplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "BonesToBananasPlugin",
+        "name": "Bones to Bananas",
+        "description": "Casts Bones to Bananas, using staves to save runes.",
+        "tags": [
+            "magic",
+            "skilling",
+            "bones",
+            "bananas",
+            "projectx"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Lumusi"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/BonesToBananasPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/BonesToBananasPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "7187edbcaba08dc225894b0b3715fbc485e962ce89c34b65bab3891b2b666558",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/bonestobananasplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "TanLeatherPlugin",
+        "name": "Lunar Tanner",
+        "description": "Tans hides on the lunar spellbook",
+        "tags": [
+            "magic",
+            "moneymaking"
+        ],
+        "version": "1.0.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "f1a1ae178b7b3d2143c26e93ca71ce5d1684f25dc9e4b4c6cb2d95668c69c49e",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/tanleatherplugin-1.0.0.jar"
+    },
+    {
+        "internalName": "RoguesDenPlugin",
+        "name": "Rogues' Den",
+        "description": "Mark tiles and clickboxes to help traverse the maze",
+        "tags": [
+            "agility",
+            "maze",
+            "minigame",
+            "overlay",
+            "thieving",
+            "projectx",
+            "rogue",
+            "den"
+        ],
+        "version": "1.0.1",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/RoguesDenPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/RoguesDenPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "185abc535d692f057ab08e42ee2b792e7480d56e23d006baf6dcedada5bbd791",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/roguesdenplugin-1.0.1.jar"
+    },
+    {
+        "internalName": "BankSellerPlugin",
+        "name": "Bank Seller",
+        "description": "Withdraws tradeable bank items and sells them on the Grand Exchange",
+        "tags": [
+            "bank",
+            "ge",
+            "seller"
+        ],
+        "version": "1.0.2",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "KSP"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/BankSellerPlugin/assets/bank.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/BankSellerPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "47a3b6362f1efc9d3a0a284ce74084e4ce7c66fda4b37f17859a7549f68deebc",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/banksellerplugin-1.0.2.jar"
+    },
+    {
+        "internalName": "AnimatedArmourPlugin",
+        "name": "Animated Armour Killer & ",
+        "description": "Builds, Kills, and loots animated armour and warrior guild tokens.",
+        "tags": [
+            "animated armour",
+            "projectx",
+            "warrior guild"
+        ],
+        "version": "1.0.2",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "See1Duck"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AnimatedArmourPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AnimatedArmourPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "c6a9e5023143e4a603dfe65027bf1145614cc6b59a0955aa34b8dddd2ceeb9ef",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/animatedarmourplugin-1.0.2.jar"
+    },
+    {
+        "internalName": "GiantsFoundryPlugin",
+        "name": "GiantsFoundry",
+        "description": "ProjectX giants foundry plugin",
+        "tags": [
+            "minigame",
+            "projectx",
+            "smithing"
+        ],
+        "version": "1.0.7",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "18cb6ed47ee4e29daea50f1f9c381668a4c3fa3209449aae56659dc3bdcfa8b3",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/giantsfoundryplugin-1.0.7.jar"
+    },
+    {
+        "internalName": "GabulhasSandMinerPlugin",
+        "name": "Sandstone miner",
+        "description": "",
+        "tags": [
+            "GabulhasSandMiner",
+            "Gabulhas"
+        ],
+        "version": "1.2.2",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "7079e5b4e9f4bdffb7b0c8568b1963fbcb11bd837911cce9133a9bfa6fbce9af",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/gabulhassandminerplugin-1.2.2.jar"
+    },
+    {
+        "internalName": "FlippersChaserPlugin",
+        "name": "Flippers Chaser",
+        "description": "Automates obtaining Flippers from Mogres",
+        "tags": [
+            "service",
+            "automation",
+            "combat",
+            "projectx"
+        ],
+        "version": "1.0.2",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Bttqjs"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/FlippersChaserPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/FlippersChaserPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "609fbade63a31fb657c68271cc76785f5035a7fdcb0e1257783b890f19fc8403",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/flipperschaserplugin-1.0.2.jar"
+    },
+    {
+        "internalName": "TearsOfGuthixPlugin",
+        "name": "Tears of Guthix",
+        "description": "Optimally complete the Tears of Guthix D&D",
+        "tags": [
+            "Tears",
+            "of",
+            "guthix",
+            "taf",
+            "xp",
+            "projectx"
+        ],
+        "version": "1.0.4",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "30e1a08897242aae757b5ea8a73e4d10ed9ae8f732602c208371982303762001",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/tearsofguthixplugin-1.0.4.jar"
+    },
+    {
+        "internalName": "ArceuusRcPlugin",
+        "name": "Arceuus RC",
+        "description": "Runecrafting at Arceuus",
+        "tags": [
+            "runecrafting",
+            "blood rune",
+            "soul rune",
+            "arceuus",
+            "projectx"
+        ],
+        "version": "1.0.3",
+        "minClientVersion": "1.9.9.1",
+        "authors": [
+            "See1Duck"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/ArceuusRcPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/ArceuusRcPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "a286f55205aa1ff2a5a85866d5e032922a037d326b13a90f2054e3953e8ef063",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/arceuusrcplugin-1.0.3.jar"
+    },
+    {
+        "internalName": "PiePlugin",
+        "name": "Pie Shell Maker",
+        "description": "Nate's Pie Shell Maker",
+        "tags": [
+            "MoneyMaking",
+            "nate",
+            "pies"
+        ],
+        "version": "1.2.1",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Nate"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/PiePlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/PiePlugin/assets/card.png",
+        "disable": false,
+        "sha256": "0f5b23574e554e983990a8825c45f863e6f104bcca8c75e2e21f334785de14f9",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/pieplugin-1.2.1.jar"
+    },
+    {
+        "internalName": "MWintertodtPlugin",
+        "name": "Wintertodt",
+        "description": "Wintertodt Minigame Bot",
+        "tags": [
+            "Wintertodt",
+            "projectx",
+            "firemaking",
+            "minigame"
+        ],
+        "version": "1.4.8",
+        "minClientVersion": "2.0.7",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/MWintertodtPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/MWintertodtPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "2c109f5bf07d68890db9126eba24db336d6dcb07810b761e4da454da2b020a9a",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/mwintertodtplugin-1.4.8.jar"
+    },
+    {
+        "internalName": "AutoCookingPlugin",
+        "name": "Auto Cooking",
+        "description": "ProjectX cooking plugin",
+        "tags": [
+            "cooking",
+            "projectx",
+            "skilling"
+        ],
+        "version": "1.1.5",
+        "minClientVersion": "2.0.8",
+        "authors": [
+            "George"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AutoCookingPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AutoCookingPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "b0b7082703c7b0059f409045357a6daa9ec0e5b229de5bed05aba841e01f871d",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/autocookingplugin-1.1.5.jar"
+    },
+    {
+        "internalName": "AIOFighterPlugin",
+        "name": "AIO Fighter",
+        "description": "ProjectX AIO Fighter plugin",
+        "tags": [
+            "fight",
+            "projectx",
+            "misc",
+            "combat",
+            "playerassistant"
+        ],
+        "version": "2.2.0",
+        "minClientVersion": "2.1.32",
+        "authors": [
+            "Mocrosoft",
+            "See1Duck"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/AIOFighterPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/AIOFighterPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "4c547425b6de878eb98e273b5170ed04dd27d973fcbd6830e358438ce09f419a",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/aiofighterplugin-2.2.0.jar"
+    },
+    {
+        "internalName": "MageTrainingArenaPlugin",
+        "name": "MTA",
+        "description": "Automates the Mage Training Arena minigame",
+        "tags": [
+            "mage",
+            "training",
+            "arena",
+            "mta",
+            "magic",
+            "minigame",
+            "projectx"
+        ],
+        "version": "1.1.8",
+        "minClientVersion": "1.9.6",
+        "authors": [
+            "Basche"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/MageTrainingArenaPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/MageTrainingArenaPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "d7a4d5fa7198b9e690fe152bd036b158062a648e77006a51fefe1b32be4461f5",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/magetrainingarenaplugin-1.1.8.jar"
+    },
+    {
+        "internalName": "ScurriusPlugin",
+        "name": "Scurrius",
+        "description": "Scurrius example plugin",
+        "tags": [
+            "projectx",
+            "scurrius",
+            "boss"
+        ],
+        "version": "1.0.2",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "1884aba8746bf37f74fe94276842d3bdad4553c57006a6509f11deeb00203986",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/scurriusplugin-1.0.2.jar"
+    },
+    {
+        "internalName": "MotherloadMinePlugin",
+        "name": "MotherlodeMine",
+        "description": "A bot that mines paydirt in the motherlode mine",
+        "tags": [
+            "paydirt",
+            "mine",
+            "motherlode",
+            "mlm"
+        ],
+        "version": "1.9.7",
+        "minClientVersion": "1.9.8",
+        "authors": [
+            "Mocrosoft"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/MotherloadMinePlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/MotherloadMinePlugin/assets/card.png",
+        "disable": false,
+        "sha256": "a5f5a48d4c3a23292460c3dc473e5bd38f11d06660d22fb77577f6fe4ac5ed08",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/motherloadmineplugin-1.9.7.jar"
+    },
+    {
+        "internalName": "HumidifierPlugin",
+        "name": "Humidifier",
+        "description": "Nate's Humidifier",
+        "tags": [
+            "magic",
+            "nate",
+            "humidifier",
+            "moneymaking"
+        ],
+        "version": "1.6.2",
+        "minClientVersion": "2.0.1",
+        "authors": [
+            "Nate"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/HumidifierPlugin/assets/icon.png",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/HumidifierPlugin/assets/card.png",
+        "disable": false,
+        "sha256": "897d0eea36ec70dc2213d04b5e7a07a17b0cbb8c2f16f353077b95c3e2fa6d9c",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/humidifierplugin-1.6.2.jar"
+    },
+    {
+        "internalName": "TemporossPlugin",
+        "name": "Tempoross",
+        "description": "Tempoross Plugin",
+        "tags": [
+            "Tempoross",
+            "minigame",
+            "s1d",
+            "see1duck",
+            "projectx",
+            "fishing",
+            "skilling"
+        ],
+        "version": "2.0.0",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "e6bdf14f1bf5a7d9aaecfe8d0aa9ec4f33ebb9221550fd5b53806f1f84a34048",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/temporossplugin-2.0.0.jar"
+    },
+    {
+        "internalName": "ShadesKillerPlugin",
+        "name": "ShadesKiller",
+        "description": "ProjectX ShadesKiller plugin",
+        "tags": [
+            "Shades",
+            "projectx",
+            "Moneymaking"
+        ],
+        "version": "1.0.2",
+        "minClientVersion": "2.0.13",
+        "authors": [
+            "Unknown Author"
+        ],
+        "iconUrl": "",
+        "cardUrl": "",
+        "disable": false,
+        "sha256": "18b4600725e407b26f55cf222a333a0876ac90a0891175722309d2490e4ff9ab",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/shadeskillerplugin-1.0.2.jar"
+    },
+    {
+        "internalName": "DailyTasksPlugin",
+        "name": "Daily Tasks",
+        "description": "ProjectX daily tasks plugin",
+        "tags": [
+            "misc"
+        ],
+        "version": "1.1.0",
+        "minClientVersion": "2.1.0",
+        "authors": [
+            "Unknown"
+        ],
+        "iconUrl": "https://ieasyscript.github.io/xclient-hub/DailyTasksPlugin/assets/icon.jpg",
+        "cardUrl": "https://ieasyscript.github.io/xclient-hub/DailyTasksPlugin/assets/card.jpg",
+        "disable": false,
+        "sha256": "359b63b9cb001f8b4c0252e4d8cc3a8549ff4546fc3388528d9fa6cb2d398250",
+        "url": "https://github.com/iEasyScript/xclient-hub/releases/download/latest-release/dailytasksplugin-1.1.0.jar"
+    }
+]
