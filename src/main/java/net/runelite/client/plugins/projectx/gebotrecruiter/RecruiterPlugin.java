@@ -20,8 +20,8 @@ import javax.inject.Inject;
         authors = { "Bee" },
         version = RecruiterPlugin.version,
         minClientVersion = "2.0.7",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/RecruiterPlugin/assets/card.jpg",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/RecruiterPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/RecruiterPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/RecruiterPlugin/assets/icon.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

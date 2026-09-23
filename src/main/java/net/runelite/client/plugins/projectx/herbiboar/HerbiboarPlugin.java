@@ -35,8 +35,8 @@ import java.util.Deque;
         authors = {"AI Agent"},
         version = HerbiboarPlugin.version,
         minClientVersion = "1.9.8",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/HerbiboarPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/HerbiboarPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/HerbiboarPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/HerbiboarPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

@@ -20,8 +20,8 @@ import java.awt.*;
         authors = {"See1Duck"},
         version = MinnowsPlugin.version,
         minClientVersion = "2.0.7",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/MinnowsPlugin/assets/card.jpg",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/MinnowsPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/MinnowsPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/MinnowsPlugin/assets/icon.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

@@ -21,8 +21,8 @@ import java.awt.*;
         authors = {"See1Duck"},
         version = AerialFishingPlugin.version,
         minClientVersion = "2.0.7",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/AerialFishingPlugin/assets/card.jpg",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/AerialFishingPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/AerialFishingPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/AerialFishingPlugin/assets/icon.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

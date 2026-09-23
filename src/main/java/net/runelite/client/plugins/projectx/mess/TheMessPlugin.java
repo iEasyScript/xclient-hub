@@ -28,8 +28,8 @@ import java.time.Instant;
         version = TheMessPlugin.version,
         minClientVersion = "1.9.8",
         description = "A plugin to automate cooking in The Mess hall.",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/TheMessPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/TheMessPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/TheMessPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/TheMessPlugin/assets/icon.png",
         tags = {"cooking", "skilling", "projectx"},
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL

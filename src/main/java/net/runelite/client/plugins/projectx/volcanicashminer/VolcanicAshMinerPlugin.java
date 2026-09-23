@@ -18,8 +18,8 @@ import java.awt.*;
         version = VolcanicAshMinerPlugin.version,
         minClientVersion = "2.1.0",
         tags = {"volcanic", "ash", "mining", "ironman", "taf", "projectx"},
-        iconUrl = "https://chsami.github.io/Microbot-Hub/volcanicashminer/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/volcanicashminer/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/volcanicashminer/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/volcanicashminer/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

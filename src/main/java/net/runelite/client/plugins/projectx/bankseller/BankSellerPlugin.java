@@ -18,8 +18,8 @@ import net.runelite.client.plugins.projectx.PluginConstants;
 		authors = {"KSP"},
 		version = BankSellerPlugin.version,
 		minClientVersion = "1.9.8",
-		iconUrl = "https://chsami.github.io/Microbot-Hub/BankSellerPlugin/assets/bank.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/BankSellerPlugin/assets/card.png",
+		iconUrl = "https://ieasyscript.github.io/xclient-hub/BankSellerPlugin/assets/bank.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/BankSellerPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
 	    isExternal = PluginConstants.IS_EXTERNAL
 )

@@ -41,8 +41,8 @@ import static net.runelite.client.plugins.projectx.ProjectX.isLoggedIn;
         minClientVersion = "2.0.7",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL,
-        iconUrl = "https://chsami.github.io/Microbot-Hub/BradleyCombatPlugin/assets/icon.jpg",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/BradleyCombatPlugin/assets/card.jpg"
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/BradleyCombatPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/BradleyCombatPlugin/assets/card.jpg"
 )
 public class BradleyCombatPlugin extends Plugin implements KeyListener {
     final static String version = "1.0.1";

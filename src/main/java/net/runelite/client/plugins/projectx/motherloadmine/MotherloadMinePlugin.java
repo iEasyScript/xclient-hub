@@ -22,8 +22,8 @@ import net.runelite.client.ui.overlay.OverlayManager;
 	authors = { "Mocrosoft" },
 	version = MotherloadMinePlugin.version,
 	minClientVersion = "1.9.8",
-	iconUrl = "https://chsami.github.io/Microbot-Hub/MotherloadMinePlugin/assets/icon.png",
-	cardUrl = "https://chsami.github.io/Microbot-Hub/MotherloadMinePlugin/assets/card.png",
+	iconUrl = "https://ieasyscript.github.io/xclient-hub/MotherloadMinePlugin/assets/icon.png",
+	cardUrl = "https://ieasyscript.github.io/xclient-hub/MotherloadMinePlugin/assets/card.png",
 	enabledByDefault = PluginConstants.DEFAULT_ENABLED,
 	isExternal = PluginConstants.IS_EXTERNAL
 )

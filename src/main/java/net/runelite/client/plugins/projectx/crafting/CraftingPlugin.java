@@ -21,8 +21,8 @@ import java.awt.*;
         authors = { "Mocrosoft" },
         version = CraftingPlugin.version,
         minClientVersion = "2.0.7",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/CraftingPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/CraftingPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/CraftingPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/CraftingPlugin/assets/icon.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

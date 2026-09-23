@@ -23,8 +23,8 @@ import java.awt.*;
         authors = { "Mocrosoft" },
         version = NmzPlugin.version,
         minClientVersion = "2.1.0",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/NmzPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/NmzPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/NmzPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/NmzPlugin/assets/icon.png",
         tags = {"nmz", "projectx"},
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL

@@ -17,8 +17,8 @@ import java.awt.*;
         authors = {"ProjectX Hub"},
         version = ColosseumPrayerPlugin.version,
         minClientVersion = "1.9.8.8",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/ColosseumPrayerPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/ColosseumPrayerPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/ColosseumPrayerPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/ColosseumPrayerPlugin/assets/icon.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

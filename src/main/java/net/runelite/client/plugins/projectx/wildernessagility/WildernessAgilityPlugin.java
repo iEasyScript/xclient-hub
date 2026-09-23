@@ -21,8 +21,8 @@ import net.runelite.client.eventbus.Subscribe;
     authors = { "Cranny" },
     minClientVersion = "2.0.21",
     tags = {"agility", "skilling", "solo", "mass", "MoneyMaking"},
-    iconUrl = "https://chsami.github.io/Microbot-Hub/WildernessAgilityPlugin/assets/icon.png",
-    cardUrl = "httpa://chsami.github.io/Microbot-Hub/WildernessAgilityPlugin/assets/card.png"
+    iconUrl = "https://ieasyscript.github.io/xclient-hub/WildernessAgilityPlugin/assets/icon.png",
+    cardUrl = "httpa://ieasyscript.github.io/xclient-hub/WildernessAgilityPlugin/assets/card.png"
 )
 public class WildernessAgilityPlugin extends Plugin {
 

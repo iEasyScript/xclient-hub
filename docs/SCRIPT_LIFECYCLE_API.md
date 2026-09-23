@@ -6,7 +6,7 @@ The ProjectX client exposes HTTP endpoints that let the Hub start, stop, and mon
 
 ```
 ┌──────────────────────────────────────────────────┐
-│  Microbot-Hub                                    │
+│  xclient-hub                                    │
 │                                                  │
 │  1. Build client with Hub plugins on classpath   │
 │  2. Spawn client process                         │

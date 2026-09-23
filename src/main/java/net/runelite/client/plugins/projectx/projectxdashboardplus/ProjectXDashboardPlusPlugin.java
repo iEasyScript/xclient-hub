@@ -51,8 +51,8 @@ import java.awt.image.BufferedImage;
         authors = {"pjmarz"},
         version = ProjectXDashboardPlusPlugin.version,
         minClientVersion = "2.0.13",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/ProjectXDashboardPlusPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/ProjectXDashboardPlusPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/ProjectXDashboardPlusPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/ProjectXDashboardPlusPlugin/assets/icon.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

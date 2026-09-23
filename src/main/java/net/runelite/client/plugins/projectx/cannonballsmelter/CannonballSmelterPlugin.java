@@ -18,8 +18,8 @@ import java.awt.*;
         version = CannonballSmelterPlugin.version,
         minClientVersion = "1.9.9.1",
         tags = { "smithing", "girdy", "skilling" },
-        iconUrl = "https://chsami.github.io/Microbot-Hub/CannonballSmelterPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/CannonballSmelterPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/CannonballSmelterPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/CannonballSmelterPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

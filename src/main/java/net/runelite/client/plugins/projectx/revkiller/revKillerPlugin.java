@@ -25,8 +25,8 @@ import java.awt.*;
         authors = { "Gage" }, // Author(s) of the plugin (optional, default is "Unknown Author")
         version = revKillerPlugin.version, // Version of the plugin (required)
         minClientVersion = "2.1.0",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/revKillerPlugin/assets/icon.png", // URL to plugin icon shown in client (optional)
-        cardUrl = "https://chsami.github.io/Microbot-Hub/revKillerPlugin/assets/card.png", // URL to plugin card image for website (optional)
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/revKillerPlugin/assets/icon.png", // URL to plugin icon shown in client (optional)
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/revKillerPlugin/assets/card.png", // URL to plugin card image for website (optional)
         enabledByDefault = PluginConstants.DEFAULT_ENABLED, // Whether the plugin is enabled by default
         isExternal = PluginConstants.IS_EXTERNAL // Whether the plugin is external
 )

@@ -29,8 +29,8 @@ import java.util.stream.Collectors;
     version = MicroAgilityPlugin.version,
         minClientVersion = "2.1.0",
 	tags = {"agility", "projectx"},
-    iconUrl = "https://chsami.github.io/Microbot-Hub/MicroAgilityPlugin/assets/icon.png",
-    cardUrl = "https://chsami.github.io/Microbot-Hub/MicroAgilityPlugin/assets/card.png",
+    iconUrl = "https://ieasyscript.github.io/xclient-hub/MicroAgilityPlugin/assets/icon.png",
+    cardUrl = "https://ieasyscript.github.io/xclient-hub/MicroAgilityPlugin/assets/card.png",
     enabledByDefault = PluginConstants.DEFAULT_ENABLED,
     isExternal = PluginConstants.IS_EXTERNAL
 )

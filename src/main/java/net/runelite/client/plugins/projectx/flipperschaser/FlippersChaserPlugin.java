@@ -41,8 +41,8 @@ import java.nio.charset.StandardCharsets;
         authors = {"Bttqjs"},
         version = FlippersChaserPlugin.version,
         minClientVersion = "2.0.7",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/FlippersChaserPlugin/assets/card.jpg",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/FlippersChaserPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/FlippersChaserPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/FlippersChaserPlugin/assets/icon.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

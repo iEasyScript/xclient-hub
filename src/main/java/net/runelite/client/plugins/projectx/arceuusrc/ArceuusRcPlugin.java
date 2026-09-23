@@ -17,8 +17,8 @@ import javax.inject.Inject;
         version = ArceuusRcPlugin.version,
         minClientVersion = "1.9.9.1",
         tags = {"runecrafting", "blood rune", "soul rune" ,"arceuus", "projectx"},
-        iconUrl = "https://chsami.github.io/Microbot-Hub/ArceuusRcPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/ArceuusRcPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/ArceuusRcPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/ArceuusRcPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

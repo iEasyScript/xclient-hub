@@ -20,8 +20,8 @@ import java.awt.*;
         authors = {"AI Agent"},
         version = AutoFishingPlugin.version,
         minClientVersion = "1.9.8",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/AutoFishingPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/AutoFishingPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/AutoFishingPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/AutoFishingPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

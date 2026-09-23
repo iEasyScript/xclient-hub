@@ -25,8 +25,8 @@ import java.awt.*;
 	minClientVersion = "2.1.0",
 	enabledByDefault = PluginConstants.DEFAULT_ENABLED,
 	isExternal = PluginConstants.IS_EXTERNAL,
-    cardUrl = "https://chsami.github.io/Microbot-Hub/MSailingPlugin/assets/card.jpg",
-    iconUrl = "https://chsami.github.io/Microbot-Hub/MSailingPlugin/assets/icon.jpg"
+    cardUrl = "https://ieasyscript.github.io/xclient-hub/MSailingPlugin/assets/card.jpg",
+    iconUrl = "https://ieasyscript.github.io/xclient-hub/MSailingPlugin/assets/icon.jpg"
 )
 @Slf4j
 public class MSailingPlugin extends Plugin {

@@ -33,8 +33,8 @@ import java.util.*;
         version = MixologyPlugin.version,
         minClientVersion = "1.9.9.1",
         tags = {"herblore", "projectx", "mixology"},
-        iconUrl = "https://chsami.github.io/Microbot-Hub/MixologyPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/MixologyPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/MixologyPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/MixologyPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

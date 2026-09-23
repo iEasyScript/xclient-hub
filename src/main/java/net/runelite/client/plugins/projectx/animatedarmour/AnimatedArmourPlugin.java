@@ -18,8 +18,8 @@ import java.awt.*;
         authors = {"See1Duck"},
         version = AnimatedArmourPlugin.version,
         minClientVersion = "2.0.7",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/AnimatedArmourPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/AnimatedArmourPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/AnimatedArmourPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/AnimatedArmourPlugin/assets/icon.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

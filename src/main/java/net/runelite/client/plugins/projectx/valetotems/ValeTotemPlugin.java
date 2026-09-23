@@ -20,8 +20,8 @@ import java.awt.*;
         authors = { "Make" },
         version = ValeTotemPlugin.version,
         minClientVersion = "1.9.7",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/ValeTotemPlugin/assets/card.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/ValeTotemPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/ValeTotemPlugin/assets/card.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/ValeTotemPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

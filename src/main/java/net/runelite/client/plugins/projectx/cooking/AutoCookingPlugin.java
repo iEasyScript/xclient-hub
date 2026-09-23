@@ -23,8 +23,8 @@ import static net.runelite.client.plugins.PluginDescriptor.Mocrosoft;
         authors = {"George"},
         version = AutoCookingPlugin.version,
         minClientVersion = "2.0.8",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/AutoCookingPlugin/assets/card.jpg",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/AutoCookingPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/AutoCookingPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/AutoCookingPlugin/assets/icon.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

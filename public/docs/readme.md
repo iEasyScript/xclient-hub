@@ -5,7 +5,7 @@
 
 Welcome to the ProjectX Hub.
 
-Visit [ProjectX Hub](https://github.com/chsami/Microbot-Hub) to find out all the information about this project.
+Visit [ProjectX Hub](https://github.com/iEasyScript/xclient-hub) to find out all the information about this project.
 
 It explains:
 

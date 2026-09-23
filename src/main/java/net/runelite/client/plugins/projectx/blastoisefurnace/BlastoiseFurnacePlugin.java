@@ -30,8 +30,8 @@ import static net.runelite.client.plugins.projectx.blastoisefurnace.BlastoiseFur
         minClientVersion = "2.1.0",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL,
-        iconUrl = "https://chsami.github.io/Microbot-Hub/BlastoiseFurnacePlugin/assets/icon.jpg",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/BlastoiseFurnacePlugin/assets/card.jpg"
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/BlastoiseFurnacePlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/BlastoiseFurnacePlugin/assets/card.jpg"
 )
 @Slf4j
 public class BlastoiseFurnacePlugin extends Plugin {

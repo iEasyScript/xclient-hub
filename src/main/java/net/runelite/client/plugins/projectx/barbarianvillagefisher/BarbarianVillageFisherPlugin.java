@@ -17,8 +17,8 @@ import java.awt.*;
 	version = BarbarianVillageFisherPlugin.version,
 	description = "Fly and bait fish in Barbarian Village.",
 	tags = {"fish", "fishing", "fly", "bait", "barb", "barbarian", "village"},
-	cardUrl = "https://chsami.github.io/Microbot-Hub/BarbarianVillageFisherPlugin/assets/card.png",
-    iconUrl = "https://chsami.github.io/Microbot-Hub/BarbarianVillageFisherPlugin/assets/icon.png",
+	cardUrl = "https://ieasyscript.github.io/xclient-hub/BarbarianVillageFisherPlugin/assets/card.png",
+    iconUrl = "https://ieasyscript.github.io/xclient-hub/BarbarianVillageFisherPlugin/assets/icon.png",
 	enabledByDefault = PluginConstants.DEFAULT_ENABLED,
 	isExternal = PluginConstants.IS_EXTERNAL,
 	minClientVersion = "1.9.6"

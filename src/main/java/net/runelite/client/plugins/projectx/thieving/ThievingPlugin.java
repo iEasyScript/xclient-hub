@@ -27,8 +27,8 @@ import java.time.Duration;
         version = ThievingPlugin.version,
         minClientVersion = "1.9.8.2",
         tags = {"thieving", "skilling"},
-		iconUrl = "https://chsami.github.io/Microbot-Hub/ThievingPlugin/assets/icon.png",
-		cardUrl = "https://chsami.github.io/Microbot-Hub/ThievingPlugin/assets/card.png",
+		iconUrl = "https://ieasyscript.github.io/xclient-hub/ThievingPlugin/assets/icon.png",
+		cardUrl = "https://ieasyscript.github.io/xclient-hub/ThievingPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

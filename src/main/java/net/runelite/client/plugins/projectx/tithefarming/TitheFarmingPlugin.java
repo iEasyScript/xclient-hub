@@ -32,8 +32,8 @@ import java.util.regex.Pattern;
         authors = { "Mocrosoft" },
         version = TitheFarmingPlugin.version,
         minClientVersion = "1.9.8.8",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/TitheFarmingPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/TitheFarmingPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/TitheFarmingPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/TitheFarmingPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

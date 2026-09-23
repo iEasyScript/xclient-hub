@@ -64,8 +64,8 @@ import net.runelite.client.util.ImageUtil;
 	version = ShootingStarPlugin.version,
 	minClientVersion = "1.9.8",
 	tags = {"mining",  "skilling", "star", "shooting"},
-	iconUrl = "https://chsami.github.io/Microbot-Hub/ShootingStarPlugin/assets/icon.png",
-	cardUrl = "https://chsami.github.io/Microbot-Hub/ShootingStarPlugin/assets/card.png",
+	iconUrl = "https://ieasyscript.github.io/xclient-hub/ShootingStarPlugin/assets/icon.png",
+	cardUrl = "https://ieasyscript.github.io/xclient-hub/ShootingStarPlugin/assets/card.png",
 	enabledByDefault = PluginConstants.DEFAULT_ENABLED,
 	isExternal = PluginConstants.IS_EXTERNAL
 )

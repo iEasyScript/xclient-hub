@@ -43,8 +43,8 @@ import static net.runelite.client.plugins.projectx.util.Global.sleepUntil;
         authors = {"Mocrosoft"},
         version = AutoWoodcuttingPlugin.version,
         minClientVersion = "2.1.32",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/AutoWoodcuttingPlugin/assets/card.jpg",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/AutoWoodcuttingPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/AutoWoodcuttingPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/AutoWoodcuttingPlugin/assets/icon.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

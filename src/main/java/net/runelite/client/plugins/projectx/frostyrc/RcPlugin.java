@@ -30,8 +30,8 @@ import java.time.Instant;
         authors = {"Frosty"},
         version = RcPlugin.version,
         minClientVersion = "2.0.7",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/RcPlugin/assets/card.jpg",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/RcPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/RcPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/RcPlugin/assets/icon.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

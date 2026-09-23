@@ -18,8 +18,8 @@ import java.awt.*;
         authors = {"Unknown"},
         version = FishingTrawlerPlugin.version,
         minClientVersion = "2.0.7",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/FishingTrawlerPlugin/assets/card.jpg",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/FishingTrawlerPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/FishingTrawlerPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/FishingTrawlerPlugin/assets/icon.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

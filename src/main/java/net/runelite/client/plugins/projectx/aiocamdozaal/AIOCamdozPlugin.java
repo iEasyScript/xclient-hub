@@ -20,8 +20,8 @@ import java.awt.*;
         minClientVersion = "2.0.7",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL,
-        iconUrl = "https://chsami.github.io/Microbot-Hub/AIOCamdozPlugin/assets/icon.jpg",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/AIOCamdozPlugin/assets/card.jpg"
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/AIOCamdozPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/AIOCamdozPlugin/assets/card.jpg"
 )
 @Slf4j
 public class AIOCamdozPlugin extends Plugin {

@@ -14,7 +14,7 @@ import javax.inject.Inject;
         name = PluginConstants.DEFAULT_PREFIX + "Pitfall Hunter",
         description = "Local Sunlight Antelope pitfall loop. Lure closest NPC, then use closest pit.",
         tags = {"hunter", "pitfall", "sunlight antelope", "local", "mvp"},
-        authors = {"Microbot-Hub"},
+        authors = {"xclient-hub"},
         version = PitfallHunterPlugin.version,
         minClientVersion = "2.1.0",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,

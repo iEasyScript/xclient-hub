@@ -24,8 +24,8 @@ import java.awt.*;
         version = VorkathPlugin.version,
         minClientVersion = "1.9.9.1",
         tags = {"vorkath", "projectx"},
-        iconUrl = "https://chsami.github.io/Microbot-Hub/VorkathPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/VorkathPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/VorkathPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/VorkathPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

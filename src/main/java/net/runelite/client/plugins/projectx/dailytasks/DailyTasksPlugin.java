@@ -22,8 +22,8 @@ import static net.runelite.client.plugins.PluginDescriptor.Mocrosoft;
         authors = {"Unknown"},
         version = DailyTasksPlugin.version,
         minClientVersion = "2.1.0",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/DailyTasksPlugin/assets/card.jpg",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/DailyTasksPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/DailyTasksPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/DailyTasksPlugin/assets/icon.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

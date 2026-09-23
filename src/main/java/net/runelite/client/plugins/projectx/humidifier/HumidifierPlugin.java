@@ -20,8 +20,8 @@ import java.awt.*;
         version = HumidifierPlugin.version,
         minClientVersion = "2.0.1",
         tags = {"magic", "nate", "humidifier","moneymaking"},
-        iconUrl = "https://chsami.github.io/Microbot-Hub/HumidifierPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/HumidifierPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/HumidifierPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/HumidifierPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

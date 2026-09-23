@@ -26,8 +26,8 @@ import static net.runelite.client.plugins.projectx.pestcontrol.PestControlScript
         authors = { "Mocrosoft" },
         version = PestControlPlugin.version,
         minClientVersion = "2.1.0",
-		iconUrl = "https://chsami.github.io/Microbot-Hub/PestControlPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/PestControlPlugin/assets/card.png",
+		iconUrl = "https://ieasyscript.github.io/xclient-hub/PestControlPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/PestControlPlugin/assets/card.png",
 		enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

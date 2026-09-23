@@ -19,8 +19,8 @@ import java.awt.*;
         minClientVersion = "1.9.6",
         description = "Automates the Mage Training Arena minigame",
         tags = {"mage", "training", "arena", "mta", "magic", "minigame", "projectx"},
-        cardUrl = "https://chsami.github.io/Microbot-Hub/MageTrainingArenaPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/MageTrainingArenaPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/MageTrainingArenaPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/MageTrainingArenaPlugin/assets/icon.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

@@ -33,8 +33,8 @@ import static net.runelite.client.plugins.PluginDescriptor.Mocrosoft;
         authors = {"Mocrosoft"},
         version = DriftNetPlugin.version,
         minClientVersion = "2.0.7",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/DriftNetPlugin/assets/card.jpg",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/DriftNetPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/DriftNetPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/DriftNetPlugin/assets/icon.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

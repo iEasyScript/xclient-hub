@@ -20,8 +20,8 @@ import javax.inject.Inject;
         authors = {"Bee"},
         version = ChaosAltarPlugin.version,
         minClientVersion = "2.1.0",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/ChaosAltarPlugin/assets/card.jpg",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/ChaosAltarPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/ChaosAltarPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/ChaosAltarPlugin/assets/icon.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

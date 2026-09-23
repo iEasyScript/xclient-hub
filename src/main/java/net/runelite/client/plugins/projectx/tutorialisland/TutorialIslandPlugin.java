@@ -19,8 +19,8 @@ import java.awt.*;
         version = TutorialIslandPlugin.version,
         minClientVersion = "1.9.9.2",
         tags = {"TutorialIsland", "projectx"},
-        iconUrl = "https://chsami.github.io/Microbot-Hub/TutorialIslandPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/TutorialIslandPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/TutorialIslandPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/TutorialIslandPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

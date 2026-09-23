@@ -35,8 +35,8 @@ import java.time.Instant;
         authors = { "Make" },
         version = MKE_WintertodtPlugin.version,
         minClientVersion = "1.9.7",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/MKE_WintertodtPlugin/assets/card.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/MKE_WintertodtPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/MKE_WintertodtPlugin/assets/card.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/MKE_WintertodtPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

@@ -40,8 +40,8 @@ import java.util.stream.Collectors;
         authors = {"Pumsters"},
         version = PVirewatchKillerPlugin.version,
         minClientVersion = "2.0.7",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/PVirewatchKillerPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/PVirewatchKillerPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/PVirewatchKillerPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/PVirewatchKillerPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

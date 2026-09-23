@@ -23,8 +23,8 @@ import java.awt.*;
 	version = DelvePrayerHelperPlugin.version,
 	minClientVersion = "2.0.0",
 	enabledByDefault = PluginConstants.DEFAULT_ENABLED,
-    cardUrl = "https://chsami.github.io/Microbot-Hub/DelvePrayerHelperPlugin/assets/card.png",
-    iconUrl = "https://chsami.github.io/Microbot-Hub/DelvePrayerHelperPlugin/assets/icon.png",
+    cardUrl = "https://ieasyscript.github.io/xclient-hub/DelvePrayerHelperPlugin/assets/card.png",
+    iconUrl = "https://ieasyscript.github.io/xclient-hub/DelvePrayerHelperPlugin/assets/icon.png",
 	isExternal = PluginConstants.IS_EXTERNAL
 )
 @Slf4j

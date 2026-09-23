@@ -43,8 +43,8 @@ import java.util.stream.Stream;
 	authors = { "Red Bracket" },
 	version = ActionReplayPlugin.version,
 	minClientVersion = "2.1.32",
-	iconUrl = "https://chsami.github.io/Microbot-Hub/ActionReplayPlugin/assets/icon.png",
-	cardUrl = "https://chsami.github.io/Microbot-Hub/ActionReplayPlugin/assets/card.png",
+	iconUrl = "https://ieasyscript.github.io/xclient-hub/ActionReplayPlugin/assets/icon.png",
+	cardUrl = "https://ieasyscript.github.io/xclient-hub/ActionReplayPlugin/assets/card.png",
 	enabledByDefault = PluginConstants.DEFAULT_ENABLED,
 	isExternal = PluginConstants.IS_EXTERNAL
 )

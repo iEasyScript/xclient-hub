@@ -25,8 +25,8 @@ import java.awt.event.MouseEvent;
         authors = {"unknown"},
         version = BankTabSorterPlugin.version,
         minClientVersion = "2.0.7",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/BanksShopperPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/BanksShopperPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/BanksShopperPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/BanksShopperPlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

@@ -21,8 +21,8 @@ import java.time.Instant;
         tags = {"TaF", "crab", "combat", "training", "gem"},
         version = GemCrabKillerPlugin.version,
         minClientVersion = "2.0.13",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/GemCrabKillerPlugin/assets/GemStoneCrab.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/GemCrabKillerPlugin/assets/GemStoneCrab.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/GemCrabKillerPlugin/assets/GemStoneCrab.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/GemCrabKillerPlugin/assets/GemStoneCrab.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

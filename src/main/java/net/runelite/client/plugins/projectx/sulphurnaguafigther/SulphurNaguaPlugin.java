@@ -21,8 +21,8 @@ import java.time.Instant;
         authors = { "VIP" },
         version = SulphurNaguaPlugin.version,
         minClientVersion = "2.6.12",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/SulphurNaguaPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/SulphurNaguaPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/SulphurNaguaPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/SulphurNaguaPlugin/assets/icon.png",
         isExternal = PluginConstants.IS_EXTERNAL,
         enabledByDefault = false
 )

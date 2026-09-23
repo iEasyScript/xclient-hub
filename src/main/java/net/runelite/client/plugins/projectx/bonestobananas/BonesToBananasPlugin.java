@@ -16,8 +16,8 @@ import javax.inject.Inject;
         authors = { "Lumusi" },
         version = BonesToBananasPlugin.version,
         minClientVersion = "1.9.8",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/BonesToBananasPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/BonesToBananasPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/BonesToBananasPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/BonesToBananasPlugin/assets/icon.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

@@ -30,8 +30,8 @@ import java.util.stream.Collectors;
         tags = {"magic", "projectx", "skilling", "training"},
         version = AIOMagicPlugin.version,
         minClientVersion = "2.0.7",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/AIOMagicPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/AIOMagicPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/AIOMagicPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/AIOMagicPlugin/assets/icon.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

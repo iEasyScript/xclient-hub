@@ -21,8 +21,8 @@ import java.awt.*;
         authors = {"Nate"},
         version = PiePlugin.version,
         minClientVersion = "2.0.7",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/PiePlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/PiePlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/PiePlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/PiePlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

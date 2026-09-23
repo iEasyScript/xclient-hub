@@ -42,8 +42,8 @@ import static net.runelite.client.plugins.projectx.util.Global.sleep;
         minClientVersion = "2.0.8",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL,
-        iconUrl = "https://chsami.github.io/Microbot-Hub/CombatHotkeysPlugin/assets/icon.jpg",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/CombatHotkeysPlugin/assets/card.jpg"
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/CombatHotkeysPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/CombatHotkeysPlugin/assets/card.jpg"
 )
 @Slf4j
 public class CombatHotkeysPlugin extends Plugin implements KeyListener {

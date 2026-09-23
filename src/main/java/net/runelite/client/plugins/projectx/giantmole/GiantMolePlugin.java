@@ -25,8 +25,8 @@ import java.awt.*;
         version = GiantMolePlugin.version,
         minClientVersion = "2.0.0",
         tags = {"Giant Mole", "projectx"},
-        iconUrl = "https://chsami.github.io/Microbot-Hub/GiantMolePlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/GiantMolePlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/GiantMolePlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/GiantMolePlugin/assets/card.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

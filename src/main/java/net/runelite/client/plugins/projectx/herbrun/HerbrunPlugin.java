@@ -18,8 +18,8 @@ import java.awt.*;
         authors = {"Mocrosoft"},
         version = HerbrunPlugin.version,
         minClientVersion = "2.1.0",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/HerbrunPlugin/assets/icon.jpg",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/HerbrunPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/HerbrunPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/HerbrunPlugin/assets/card.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

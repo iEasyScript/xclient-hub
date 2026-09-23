@@ -45,8 +45,8 @@ import java.util.stream.Collectors;
         authors = { "eXioStorm", "Netoxic" },
         description = "Monitors nearby players and executes emergency actions when detected.",
         isExternal = PluginConstants.IS_EXTERNAL,
-        iconUrl = "https://chsami.github.io/Microbot-Hub/PlayerMonitorPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/PlayerMonitorPlugin/assets/card.png"
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/PlayerMonitorPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/PlayerMonitorPlugin/assets/card.png"
  )
  public class PlayerMonitorPlugin extends Plugin {
    private static final Logger log = LoggerFactory.getLogger(PlayerMonitorPlugin.class);

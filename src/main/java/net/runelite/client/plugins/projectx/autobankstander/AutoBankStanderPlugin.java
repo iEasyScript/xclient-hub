@@ -26,8 +26,8 @@ import java.awt.image.BufferedImage;
     authors = {"Unknown"},
     version = AutoBankStanderPlugin.version,
     minClientVersion = "1.9.8",
-    iconUrl = "https://chsami.github.io/Microbot-Hub/AutoBankStanderPlugin/assets/icon.png",
-    cardUrl = "https://chsami.github.io/Microbot-Hub/AutoBankStanderPlugin/assets/card.png",
+    iconUrl = "https://ieasyscript.github.io/xclient-hub/AutoBankStanderPlugin/assets/icon.png",
+    cardUrl = "https://ieasyscript.github.io/xclient-hub/AutoBankStanderPlugin/assets/card.png",
     enabledByDefault = PluginConstants.DEFAULT_ENABLED,
     isExternal = PluginConstants.IS_EXTERNAL
 )

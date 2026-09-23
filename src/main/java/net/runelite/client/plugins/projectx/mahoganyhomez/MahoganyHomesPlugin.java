@@ -49,8 +49,8 @@ import java.util.stream.Collectors;
 		authors = {"See1Duck"},
         version = MahoganyHomesPlugin.version,
         minClientVersion = "2.0.13",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/MahoganyHomesPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/MahoganyHomesPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/MahoganyHomesPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/MahoganyHomesPlugin/assets/icon.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

@@ -55,8 +55,8 @@ import java.util.stream.Collectors;
         minClientVersion = "2.1.32",
         description = "ProjectX AIO Fighter plugin",
         tags = {"fight", "projectx", "misc", "combat", "playerassistant"},
-        cardUrl = "https://chsami.github.io/Microbot-Hub/AIOFighterPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/AIOFighterPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/AIOFighterPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/AIOFighterPlugin/assets/icon.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

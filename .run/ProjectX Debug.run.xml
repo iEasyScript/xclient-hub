@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="ProjectX Debug" type="Remote">
-    <module name="Microbot-Hub.PestControlPlugin" />
+    <module name="xclient-hub.PestControlPlugin" />
     <option name="USE_SOCKET_TRANSPORT" value="true" />
     <option name="SERVER_MODE" value="false" />
     <option name="SHMEM_ADDRESS" />

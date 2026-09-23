@@ -16,7 +16,7 @@ project.ext.PLUGINS_INCLUDE_PATH = 'net/runelite/client/plugins/projectx'
 // GitHub release configuration
 project.ext.GITHUB_CLIENT_RELEASE_BASE_URL = 'https://github.com/iEasyScript/xclient/releases/download'
 project.ext.GITHUB_PLUGINS_RELEASE_BASE_URL = 'https://github.com/iEasyScript/xclient-hub/releases/download'
-// Blank: upstream's version feed reports Microbot's versions, which are not ours.
+// Blank: upstream's version feed reports Project X's versions, which are not ours.
 // The client version is pinned below and overridden with -PprojectxClientVersion.
 project.ext.PROJECTX_CLIENT_VERSION_ENDPOINT = ''
 project.ext.GITHUB_PLUGINS_RELEASE_TAG = 'latest-release'

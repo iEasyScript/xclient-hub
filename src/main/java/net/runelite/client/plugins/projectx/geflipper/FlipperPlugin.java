@@ -17,8 +17,8 @@ import java.awt.*;
         authors = {"Choken", "afss0"},
         version = FlipperPlugin.version,
         minClientVersion = "2.1.32",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/FlipperPlugin/assets/card.jpg",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/FlipperPlugin/assets/icon.jpg",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/FlipperPlugin/assets/card.jpg",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/FlipperPlugin/assets/icon.jpg",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )

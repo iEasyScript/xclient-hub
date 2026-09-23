@@ -17,8 +17,8 @@ import java.awt.*;
         tags = {"Tower of life", "creature", "creature creation", "creation", "tol", "cc", "cd", "cardew"},
         authors = "Cardew",
         minClientVersion = "1.9.8",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/TowerOfLifeCCPlugin/assets/icon.png",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/TowerOfLifeCCPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/TowerOfLifeCCPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/TowerOfLifeCCPlugin/assets/card.png",
         version = TowerOfLifeCCPlugin.version,
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL

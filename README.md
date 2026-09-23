@@ -30,7 +30,7 @@ system, and plugins anyone may use and read.
 2. Gradle installed or the Gradle wrapper from the repository
 3. Git for version control
 
-By default the build calls `https://microbot.cloud/api/version/client` to fetch the latest client version, falling back to `2.6.9` if the lookup fails. Override with `-PprojectxClientVersion=<version>` or `-PprojectxClientVersion=latest`. If you need to work offline, point to a downloaded client JAR with `-PprojectxClientPath=/absolute/path/to/projectx-<version>.jar`.
+By default the build calls `https://xclient.dev/api/version/client` to fetch the latest client version, falling back to `2.6.9` if the lookup fails. Override with `-PprojectxClientVersion=<version>` or `-PprojectxClientVersion=latest`. If you need to work offline, point to a downloaded client JAR with `-PprojectxClientPath=/absolute/path/to/projectx-<version>.jar`.
 
 Plugin download URLs in `plugins.json` now point at the stable GitHub release tag `latest-release` (e.g., `.../releases/download/latest-release/<plugin>-<version>.jar`). Override with `-PpluginsReleaseTag=<tag>` if you need a different tag.
 
@@ -132,7 +132,7 @@ public class YourPlugin extends Plugin {
 
 The build produces plugin jars in the usual Gradle output folders. If the project applies a shading step, the final jars will be placed in the shadow or libs folder depending on the build script.
 
-Release downloads expect plugin assets at: `https://github.com/chsami/Microbot-Hub/releases/download/<version>/<pluginname>-<version>.jar`.
+Release downloads expect plugin assets at: `https://github.com/iEasyScript/xclient-hub/releases/download/<version>/<pluginname>-<version>.jar`.
 
 ## Running a plugin in RuneLiteDebug for test purpose
 
@@ -215,8 +215,8 @@ ___
 
 ## Credits and licence
 
-Forked from [Microbot-Hub](https://github.com/chsami/Microbot-Hub) by chsami. BSD 2-Clause &mdash;
-see [LICENSE](LICENSE). Individual plugins remain the work of their original authors, credited in
-each plugin's `@PluginDescriptor`.
+BSD 2-Clause &mdash; see [LICENSE](LICENSE). Individual plugins remain the work of their
+original authors, credited in each plugin's `@PluginDescriptor` and in the copyright header of
+their source files.
 
 Not affiliated with, endorsed by, or sponsored by Jagex Ltd.

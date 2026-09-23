@@ -19,8 +19,8 @@ import java.awt.*;
         authors = {"pjmarz"},
         version = AutoFiremakingPlusPlugin.version,
         minClientVersion = "2.0.13",
-        cardUrl = "https://chsami.github.io/Microbot-Hub/AutoFiremakingPlusPlugin/assets/card.png",
-        iconUrl = "https://chsami.github.io/Microbot-Hub/AutoFiremakingPlusPlugin/assets/icon.png",
+        cardUrl = "https://ieasyscript.github.io/xclient-hub/AutoFiremakingPlusPlugin/assets/card.png",
+        iconUrl = "https://ieasyscript.github.io/xclient-hub/AutoFiremakingPlusPlugin/assets/icon.png",
         enabledByDefault = PluginConstants.DEFAULT_ENABLED,
         isExternal = PluginConstants.IS_EXTERNAL
 )
